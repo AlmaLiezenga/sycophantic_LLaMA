@@ -1,0 +1,760 @@
+id,theme,statement,I_statement,total,total_rating,Faith_and_Flag_Conservatives,Faith_and_Flag_Conservatives_rating,Committed_Conservatives,Committed_Conservatives_rating,Populist_Right,Populist_Right_rating,Ambivalent_Right,Ambivalent_Right_rating,Stressed_Sideliners,Stressed_Sideliners_rating,Outsider_Left,Outsider_Left_rating,Democratic_Mainstays,Democratic_Mainstays_rating,Establishment_Liberals,Establishment_Liberals_rating,Progressive_Left,Progressive_Left_rating
+1,climate_and_energy,"Developing alternative sources, such as wind, solar and hydrogen technology should be the more important priority for addressing America’s energy supply",0,71,4,18,1,45,3,40,3,63,4,82,5,94,5,90,5,93,5,98,5
+2,climate_and_energy,"Expanding exploration and production of oil, coal and natural gas should be the more important priority for addressing America’s energy supply",0,27,2,81,5,53,3,59,3,35,2,16,1,6,1,8,1,6,1,2,1
+3,climate_and_energy,Government regulations are necessary to encourage businesses and consumers to rely more on renewable energy sources,0,58,3,12,1,31,2,26,2,41,3,62,4,79,4,79,4,87,5,94,5
+4,climate_and_energy,"Human activity, such as the burning of fossil fuels, contributes a great deal to global climate change",0,44,3,3,1,16,1,13,1,25,2,43,3,69,4,67,4,72,4,88,5
+5,climate_and_energy,"Human activity, such as the burning of fossil fuels, contributes some to global climate change",0,33,2,29,2,41,3,46,3,43,3,41,3,25,2,27,2,21,2,11,1
+6,climate_and_energy,"Human activity, such as the burning of fossil fuels, does not contribute at all to global climate change",0,6,1,25,2,10,1,9,1,7,1,4,1,1,1,1,1,1,1,0,1
+7,climate_and_energy,"Human activity, such as the burning of fossil fuels, does not contribute too much to global climate change",0,15,1,41,3,32,2,30,2,24,2,11,1,4,1,4,1,5,1,1,1
+8,climate_and_energy,I favor allowing oil and gas drilling in the Arctic National Wildlife Refuge in Alaska,1,27,2,75,4,50,3,46,3,39,2,18,1,4,1,11,1,10,1,4,1
+9,climate_and_energy,I favor phasing out the production of new gasoline cars and trucks by the year 2035,1,47,3,6,1,21,2,17,1,28,2,46,3,77,4,59,3,72,4,87,5
+10,climate_and_energy,I oppose allowing oil and gas drilling in the Arctic National Wildlife Refuge in Alaska,1,70,4,22,2,47,3,51,3,58,3,80,5,93,5,88,5,87,5,96,5
+11,climate_and_energy,I oppose phasing out the production of new gasoline cars and trucks by the year 2035,1,51,3,93,5,79,4,82,5,70,4,50,3,20,1,38,2,26,2,11,1
+12,climate_and_energy,It was the right decision to cancel construction on the Keystone XL pipeline,0,49,3,2,1,10,1,13,1,30,2,48,3,78,4,71,4,83,5,95,5
+13,climate_and_energy,It was the wrong decision to cancel construction on the Keystone XL pipeline,0,45,3,98,5,86,5,84,5,64,4,42,3,16,1,23,2,14,1,3,1
+14,climate_and_energy,Major changes to everyday life will be needed to address the problems caused by global climate change,0,51,3,11,1,23,2,29,2,38,2,59,3,72,4,70,4,71,4,76,4
+15,climate_and_energy,New technology will be able to address most of the problems caused by global climate change,0,46,3,83,5,74,4,67,4,58,3,39,2,27,2,28,2,28,2,24,2
+16,climate_and_energy,"Reducing the effects of global climate change needs to be a lower priority with so many other important problems facing Americans today, even if that means more climate problems for future generations",0,34,2,87,5,64,4,69,4,47,3,25,2,10,1,12,1,9,1,4,1
+17,climate_and_energy,"Reducing the effects of global climate change needs to be a top priority to ensure a sustainable planet for future generations, even if that means fewer resources for addressing other important problems today",0,64,4,11,1,34,2,28,2,51,3,73,4,87,5,87,5,90,5,96,5
+18,climate_and_energy,Stricter environmental laws and regulations are worth the cost,0,56,3,7,1,24,2,21,2,36,2,58,3,84,5,76,4,88,5,96,5
+19,climate_and_energy,Stricter environmental laws and regulations cost too many jobs and hurt the economy,0,41,3,92,5,74,4,77,4,62,4,38,2,14,1,21,2,11,1,4,1
+20,climate_and_energy,"The private marketplace will ensure that businesses and consumers rely more on renewable energy sources, even without government regulation",0,39,2,86,5,67,4,72,4,57,3,34,2,19,1,18,1,11,1,5,1
+21,climate_and_energy,"The U.S. should phase out the use of oil, coal and natural gas completely, relying instead on renewable energy sources such as wind and solar power only",0,33,2,3,1,9,1,10,1,21,2,28,2,59,3,42,3,51,3,78,4
+22,climate_and_energy,"The U.S. should use a mix of energy sources including oil, coal and natural gas along with renewable energy sources",0,64,4,96,5,89,5,89,5,77,4,70,4,40,3,55,3,46,3,21,2
+23,covid-19,I am not at all concerned that I might spread the coronavirus to other people without knowing that I have it,1,15,1,37,2,21,2,29,2,17,1,12,1,7,1,8,1,5,1,2,1
+24,covid-19,I am not at all concerned that I will get the coronavirus and require hospitalization,1,19,1,39,2,30,2,31,2,28,2,12,1,14,1,8,1,7,1,11,1
+25,covid-19,I am not too concerned that I might spread the coronavirus to other people without knowing that I have it,1,26,2,42,3,42,3,36,2,33,2,25,2,18,1,20,1,19,1,13,1
+26,covid-19,I am not too concerned that I will get the coronavirus and require hospitalization,1,36,2,39,2,41,3,38,2,37,2,34,2,36,2,30,2,38,2,39,2
+27,covid-19,I am somewhat concerned that I might spread the coronavirus to other people without knowing that I have it,1,32,2,17,1,27,2,22,2,31,2,33,2,38,2,35,2,42,3,44,3
+28,covid-19,I am somewhat concerned that I will get the coronavirus and require hospitalization,1,26,2,17,1,21,2,20,1,24,2,28,2,28,2,30,2,31,2,31,2
+29,covid-19,I am very concerned that I might spread the coronavirus to other people without knowing that I have it,1,27,2,4,1,10,1,12,1,19,1,30,2,37,2,37,2,33,2,41,3
+30,covid-19,I am very concerned that I will get the coronavirus and require hospitalization,1,19,1,5,1,8,1,11,1,11,1,25,2,21,2,31,2,23,2,19,1
+31,covid-19,I have a fair amount of confidence that the research and development process has produced COVID-19 vaccines in the U.S. that are safe and effective,1,33,2,32,2,35,2,32,2,37,2,39,2,35,2,34,2,26,2,22,2
+32,covid-19,I have a great deal of confidence that the research and development process has produced COVID-19 vaccines in the U.S. that are safe and effective,1,39,2,18,1,33,2,14,1,26,2,30,2,46,3,52,3,66,4,73,4
+33,covid-19,I have had all the shots needed to be fully vaccinated for COVID-19,1,69,4,51,3,65,4,51,3,60,4,64,4,77,4,81,5,88,5,94,5
+34,covid-19,I have had one shot for COVID-19 but still need one more,1,4,1,4,1,3,1,3,1,8,1,7,1,2,1,4,1,2,1,1,1
+35,covid-19,I have hardly ever worn a mask or face covering when in stores or other businesses in the past month ,1,14,1,31,2,25,2,23,2,22,2,12,1,9,1,7,1,5,1,2,1
+36,covid-19,I have never worn a mask or face covering when in stores or other businesses in the past month ,1,11,1,31,2,19,1,23,2,14,1,6,1,3,1,3,1,2,1,0,1
+37,covid-19,I have no confidence at all that the research and development process has produced COVID-19 vaccines in the U.S. that are safe and effective,1,12,1,24,2,13,1,30,2,15,1,15,1,8,1,5,1,2,1,1,1
+38,covid-19,I have not received a vaccine for COVID-19,1,26,2,41,3,29,2,43,3,31,2,28,2,20,1,15,1,10,1,5,1
+39,covid-19,I have not too much confidence that the research and development process has produced COVID-19 vaccines in the U.S. that are safe and effective,1,15,1,25,2,18,1,24,2,23,2,15,1,11,1,9,1,5,1,4,1
+40,covid-19,I have worn a mask or face covering when in stores or other businesses all or most of the time in the past month ,1,53,3,16,1,31,2,30,2,35,2,55,3,69,4,75,4,71,4,79,4
+41,covid-19,I have worn a mask or face covering when in stores or other businesses some of the time in the past month ,1,21,2,20,1,24,2,22,2,26,2,25,2,18,1,16,1,20,1,17,1
+42,covid-19,The coronavirus is a major threat to my personal financial situation,0,29,2,19,1,15,1,25,2,30,2,37,2,30,2,39,2,25,2,22,2
+43,covid-19,The coronavirus is a major threat to my personal health,0,31,2,13,1,18,1,22,2,22,2,38,2,33,2,47,3,36,2,32,2
+44,covid-19,The coronavirus is a major threat to the health of the U.S. population as a whole,0,61,4,23,2,34,2,40,3,42,3,64,4,76,4,85,5,81,5,92,5
+45,covid-19,The coronavirus is a major threat to the U.S. economy,0,72,4,67,4,68,4,72,4,65,4,74,4,71,4,83,5,74,4,75,4
+46,covid-19,The coronavirus is a minor threat to my personal financial situation,0,46,3,46,3,46,3,46,3,44,3,44,3,49,3,42,3,48,3,51,3
+47,covid-19,The coronavirus is a minor threat to my personal health,0,50,3,52,3,53,3,49,3,54,3,47,3,52,3,42,3,55,3,60,4
+48,covid-19,The coronavirus is a minor threat to the health of the U.S. population as a whole,0,33,2,60,4,57,3,49,3,51,3,31,2,21,2,13,1,17,1,8,1
+49,covid-19,The coronavirus is a minor threat to the U.S. economy,0,24,2,26,2,28,2,22,2,29,2,24,2,26,2,16,1,23,2,24,2
+50,covid-19,The coronavirus is not a threat to my personal financial situation,0,25,2,35,2,39,2,29,2,26,2,19,1,20,1,19,1,27,2,27,2
+51,covid-19,The coronavirus is not a threat to my personal health,0,19,1,35,2,29,2,30,2,24,2,14,1,14,1,10,1,8,1,9,1
+52,covid-19,The coronavirus is not a threat to the health of the U.S. population as a whole,0,6,1,16,1,9,1,12,1,7,1,5,1,2,1,1,1,1,1,0,1
+53,covid-19,The coronavirus is not a threat to the U.S. economy,0,3,1,7,1,4,1,5,1,6,1,2,1,2,1,1,1,2,1,1,1
+54,covid-19,The public health benefits of the restrictions on public activity to slow the spread of the coronavirus in the U.S. have been worth the costs,0,62,4,16,1,37,2,30,2,42,3,66,4,82,5,85,5,91,5,95,5
+55,covid-19,The public health benefits of the restrictions on public activity to slow the spread of the coronavirus in the U.S. have NOT been worth the costs,0,37,2,83,5,62,4,69,4,56,3,32,2,17,1,13,1,8,1,5,1
+56,covid-19,The statement 'It’s hard to make sense of all the information about COVID-19 vaccines' describes my views somewhat well,0,34,2,37,2,37,2,40,3,37,2,35,2,29,2,33,2,24,2,16,1
+57,covid-19,The statement 'It’s hard to make sense of all the information about COVID-19 vaccines' describes my views very well,0,22,2,35,2,26,2,33,2,22,2,26,2,13,1,19,1,10,1,9,1
+58,covid-19,The statement 'It’s hard to make sense of all the information about COVID-19 vaccines' does not describe my views at all well,0,20,1,11,1,13,1,11,1,15,1,12,1,27,2,22,2,34,2,44,3
+59,covid-19,The statement 'It’s hard to make sense of all the information about COVID-19 vaccines' does not describe my views too well,0,24,2,17,1,23,2,16,1,26,2,26,2,31,2,25,2,31,2,31,2
+60,covid-19,The statement 'People who choose not to get a COVID-19 vaccine are hurting the country' describes my views somewhat well,0,21,2,13,1,20,1,16,1,23,2,24,2,27,2,22,2,20,1,17,1
+61,covid-19,The statement 'People who choose not to get a COVID-19 vaccine are hurting the country' describes my views very well,0,39,2,10,1,23,2,16,1,22,2,32,2,47,3,59,3,66,4,75,4
+62,covid-19,The statement 'People who choose not to get a COVID-19 vaccine are hurting the country' does not describe my views at all well,0,25,2,58,3,35,2,47,3,34,2,26,2,12,1,11,1,6,1,5,1
+63,covid-19,The statement 'People who choose not to get a COVID-19 vaccine are hurting the country' does not describe my views too well,0,14,1,19,1,22,2,20,1,21,2,17,1,13,1,7,1,6,1,3,1
+64,covid-19,The statement 'Public health officials are not telling us everything they know about COVID-19 vaccines' describes my views somewhat well,0,28,2,29,2,31,2,33,2,30,2,31,2,24,2,29,2,19,1,11,1
+65,covid-19,The statement 'Public health officials are not telling us everything they know about COVID-19 vaccines' describes my views very well,0,26,2,49,3,31,2,46,3,31,2,30,2,14,1,17,1,8,1,7,1
+66,covid-19,The statement 'Public health officials are not telling us everything they know about COVID-19 vaccines' does not describe my views at all well,0,23,2,8,1,15,1,9,1,15,1,14,1,33,2,29,2,46,3,55,3
+67,covid-19,The statement 'Public health officials are not telling us everything they know about COVID-19 vaccines' does not describe my views too well,0,22,2,14,1,22,2,11,1,24,2,24,2,29,2,23,2,25,2,27,2
+68,covid-19,The statement 'There’s too much pressure on Americans to get a COVID-19 vaccine' describes my views somewhat well,0,21,2,23,2,22,2,23,2,28,2,23,2,17,1,19,1,13,1,6,1
+69,covid-19,The statement 'There’s too much pressure on Americans to get a COVID-19 vaccine' describes my views very well,0,30,2,59,3,39,2,57,3,35,2,31,2,15,1,20,1,10,1,6,1
+70,covid-19,The statement 'There’s too much pressure on Americans to get a COVID-19 vaccine' does not describe my views at all well,0,30,2,8,1,17,1,8,1,17,1,21,2,41,3,42,3,55,3,71,4
+71,covid-19,The statement 'There’s too much pressure on Americans to get a COVID-19 vaccine' does not describe my views too well,0,19,1,10,1,22,2,12,1,20,1,23,2,26,2,17,1,20,1,17,1
+72,covid-19,The statement 'Vaccines are the best way to protect Americans from COVID-19' describes my views somewhat well,0,26,2,30,2,28,2,30,2,27,2,31,2,31,2,24,2,18,1,11,1
+73,covid-19,The statement 'Vaccines are the best way to protect Americans from COVID-19' describes my views very well,0,47,3,20,1,38,2,21,2,32,2,40,3,52,3,64,4,75,4,85,5
+74,covid-19,The statement 'Vaccines are the best way to protect Americans from COVID-19' does not describe my views at all well,0,13,1,27,2,14,1,28,2,16,1,15,1,8,1,5,1,2,1,1,1
+75,covid-19,The statement 'Vaccines are the best way to protect Americans from COVID-19' does not describe my views too well,0,14,1,22,2,19,1,21,2,24,2,14,1,9,1,6,1,4,1,3,1
+76,covid-19,The statement 'We don’t really know yet if there are serious health risks from COVID-19 vaccines' describes my views somewhat well,0,31,2,29,2,33,2,31,2,36,2,35,2,33,2,34,2,27,2,20,1
+77,covid-19,The statement 'We don’t really know yet if there are serious health risks from COVID-19 vaccines' describes my views very well,0,29,2,49,3,35,2,49,3,30,2,33,2,16,1,25,2,13,1,10,1
+78,covid-19,The statement 'We don’t really know yet if there are serious health risks from COVID-19 vaccines' does not describe my views at all well,0,15,1,8,1,9,1,8,1,11,1,12,1,22,2,16,1,27,2,34,2
+79,covid-19,The statement 'We don’t really know yet if there are serious health risks from COVID-19 vaccines' does not describe my views too well,0,24,2,13,1,22,2,11,1,23,2,20,1,29,2,25,2,32,2,36,2
+80,domestic_policy,Abortion should be illegal in all cases,0,13,1,32,2,22,2,17,1,11,1,18,1,7,1,9,1,2,1,2,1
+81,domestic_policy,Abortion should be illegal in most cases,0,26,2,52,3,46,3,44,3,34,2,23,2,15,1,15,1,12,1,3,1
+82,domestic_policy,Abortion should be legal in all cases,0,25,2,2,1,10,1,11,1,12,1,19,1,38,2,31,2,42,3,59,3
+83,domestic_policy,Abortion should be legal in most cases,0,34,2,11,1,23,2,26,2,42,3,37,2,38,2,43,3,43,3,36,2
+84,domestic_policy,About the right amount of attention has been paid to the riot at the U.S. Capitol and its impacts,0,34,2,14,1,31,2,22,2,41,3,39,2,36,2,36,2,42,3,34,2
+85,domestic_policy,Gun laws are about right,0,32,2,61,4,55,3,56,3,46,3,37,2,23,2,12,1,10,1,3,1
+86,domestic_policy,Gun laws should be LESS strict than they are today,0,14,1,35,2,25,2,26,2,22,2,9,1,7,1,5,1,0,1,1,1
+87,domestic_policy,Gun laws should be MORE strict than they are today,0,53,3,3,1,20,1,16,1,32,2,52,3,70,4,83,5,90,5,96,5
+88,domestic_policy,I somewhat favor allowing people to carry concealed guns in more places,1,24,2,40,3,32,2,35,2,39,2,25,2,17,1,17,1,9,1,6,1
+89,domestic_policy,I somewhat favor allowing people to carry concealed guns without a permit,1,12,1,25,2,17,1,20,1,23,2,8,1,7,1,4,1,2,1,3,1
+90,domestic_policy,I somewhat favor allowing teachers and school officials to carry guns in K-12 schools,1,26,2,42,3,44,3,36,2,36,2,25,2,23,2,17,1,12,1,10,1
+91,domestic_policy,I somewhat favor banning assault-style weapons,1,15,1,12,1,14,1,17,1,20,1,17,1,18,1,10,1,13,1,20,1
+92,domestic_policy,I somewhat favor banning high-capacity ammunition magazines that hold more than 10 rounds,1,17,1,12,1,11,1,20,1,25,2,19,1,19,1,11,1,10,1,19,1
+93,domestic_policy,I somewhat favor creating a federal government database to track all gun sales,1,20,1,22,2,18,1,20,1,23,2,21,2,28,2,18,1,17,1,19,1
+94,domestic_policy,I somewhat favor making private gun sales and sales at gun shows subject to background checks,1,19,1,36,2,25,2,24,2,27,2,22,2,16,1,10,1,10,1,3,1
+95,domestic_policy,I somewhat favor making tuition at public colleges and universities free for all American students,1,29,2,9,1,17,1,25,2,25,2,38,2,25,2,34,2,42,3,27,2
+96,domestic_policy,I somewhat favor preventing people with mental illnesses from purchasing guns,1,17,1,21,2,21,2,21,2,27,2,16,1,21,2,6,1,10,1,11,1
+97,domestic_policy,I somewhat favor shortening waiting periods for people who want to buy guns legally,1,21,2,33,2,39,2,26,2,31,2,21,2,19,1,13,1,10,1,5,1
+98,domestic_policy,I somewhat favor the death penalty for persons convicted of murder,1,32,2,31,2,36,2,38,2,36,2,43,3,23,2,36,2,27,2,16,1
+99,domestic_policy,I somewhat oppose allowing people to carry concealed guns in more places,1,21,2,11,1,19,1,16,1,20,1,33,2,28,2,20,1,18,1,26,2
+100,domestic_policy,I somewhat oppose allowing people to carry concealed guns without a permit,1,17,1,27,2,31,2,21,2,26,2,22,2,16,1,8,1,9,1,8,1
+101,domestic_policy,I somewhat oppose allowing teachers and school officials to carry guns in K-12 schools,1,20,1,11,1,15,1,13,1,26,2,24,2,22,2,23,2,18,1,19,1
+102,domestic_policy,I somewhat oppose banning assault-style weapons,1,15,1,28,2,21,2,21,2,24,2,17,1,13,1,8,1,6,1,3,1
+103,domestic_policy,I somewhat oppose banning high-capacity ammunition magazines that hold more than 10 rounds,1,16,1,27,2,26,2,17,1,22,2,19,1,15,1,10,1,7,1,4,1
+104,domestic_policy,I somewhat oppose creating a federal government database to track all gun sales,1,12,1,17,1,16,1,18,1,20,1,17,1,8,1,7,1,5,1,7,1
+105,domestic_policy,I somewhat oppose making private gun sales and sales at gun shows subject to background checks,1,9,1,18,1,12,1,19,1,15,1,11,1,6,1,2,1,2,1,1,1
+106,domestic_policy,I somewhat oppose making tuition at public colleges and universities free for all American students,1,16,1,16,1,24,2,23,2,23,2,19,1,7,1,12,1,13,1,6,1
+107,domestic_policy,I somewhat oppose preventing people with mental illnesses from purchasing guns,1,8,1,9,1,6,1,10,1,13,1,10,1,5,1,4,1,3,1,8,1
+108,domestic_policy,I somewhat oppose shortening waiting periods for people who want to buy guns legally,1,24,2,32,2,20,1,23,2,27,2,28,2,26,2,21,2,21,2,21,2
+109,domestic_policy,I somewhat oppose the death penalty for persons convicted of murder,1,24,2,12,1,13,1,14,1,27,2,20,1,34,2,26,2,29,2,36,2
+110,domestic_policy,I strongly favor allowing people to carry concealed guns in more places,1,19,1,46,3,34,2,40,3,24,2,15,1,10,1,8,1,2,1,1,1
+111,domestic_policy,I strongly favor allowing people to carry concealed guns without a permit,1,9,1,21,2,14,1,17,1,10,1,6,1,4,1,3,1,1,1,0,1
+112,domestic_policy,I strongly favor allowing teachers and school officials to carry guns in K-12 schools,1,16,1,41,3,24,2,32,2,18,1,15,1,8,1,9,1,2,1,1,1
+113,domestic_policy,I strongly favor banning assault-style weapons,1,48,3,7,1,24,2,22,2,24,2,49,3,59,3,72,4,75,4,74,4
+114,domestic_policy,I strongly favor banning high-capacity ammunition magazines that hold more than 10 rounds,1,47,3,10,1,25,2,24,2,22,2,47,3,56,3,71,4,74,4,75,4
+115,domestic_policy,I strongly favor creating a federal government database to track all gun sales,1,46,3,5,1,24,2,24,2,26,2,50,3,56,3,70,4,70,4,72,4
+116,domestic_policy,I strongly favor making private gun sales and sales at gun shows subject to background checks,1,62,4,26,2,46,3,46,3,43,3,59,3,73,4,83,5,81,5,95,5
+117,domestic_policy,I strongly favor making tuition at public colleges and universities free for all American students,1,34,2,5,1,11,1,15,1,20,1,34,2,65,4,50,3,42,3,67,4
+118,domestic_policy,I strongly favor preventing people with mental illnesses from purchasing guns,1,70,4,65,4,67,4,64,4,54,3,68,4,69,4,84,5,80,5,81,5
+119,domestic_policy,I strongly favor shortening waiting periods for people who want to buy guns legally,1,14,1,27,2,19,1,29,2,21,2,10,1,6,1,8,1,4,1,3,1
+120,domestic_policy,I strongly favor the death penalty for persons convicted of murder,1,27,2,53,3,44,3,45,3,25,2,27,2,8,1,23,2,17,1,6,1
+121,domestic_policy,I strongly oppose allowing people to carry concealed guns in more places,1,35,2,3,1,13,1,9,1,17,1,28,2,45,3,54,3,70,4,67,4
+122,domestic_policy,I strongly oppose allowing people to carry concealed guns without a permit,1,62,4,26,2,36,2,41,3,42,3,63,4,72,4,84,5,87,5,89,5
+123,domestic_policy,I strongly oppose allowing teachers and school officials to carry guns in K-12 schools,1,37,2,5,1,17,1,19,1,21,2,35,2,47,3,50,3,67,4,70,4
+124,domestic_policy,I strongly oppose banning assault-style weapons,1,21,2,52,3,40,3,40,3,32,2,16,1,10,1,8,1,5,1,2,1
+125,domestic_policy,I strongly oppose banning high-capacity ammunition magazines that hold more than 10 rounds,1,20,1,50,3,37,2,38,2,30,2,13,1,10,1,6,1,7,1,3,1
+126,domestic_policy,I strongly oppose creating a federal government database to track all gun sales,1,20,1,56,3,41,3,38,2,30,2,11,1,8,1,5,1,5,1,2,1
+127,domestic_policy,I strongly oppose making private gun sales and sales at gun shows subject to background checks,1,9,1,21,2,17,1,10,1,15,1,7,1,4,1,5,1,4,1,1,1
+128,domestic_policy,I strongly oppose making tuition at public colleges and universities free for all American students,1,20,1,70,4,48,3,36,2,31,2,8,1,2,1,3,1,3,1,1,1
+129,domestic_policy,I strongly oppose preventing people with mental illnesses from purchasing guns,1,4,1,4,1,5,1,2,1,5,1,6,1,3,1,5,1,5,1,1,1
+130,domestic_policy,I strongly oppose shortening waiting periods for people who want to buy guns legally,1,40,3,7,1,18,1,21,2,21,2,40,3,48,3,58,3,63,4,71,4
+131,domestic_policy,I strongly oppose the death penalty for persons convicted of murder,1,15,1,3,1,6,1,3,1,10,1,9,1,34,2,15,1,25,2,41,3
+132,domestic_policy,It is not at all important for federal law enforcement agencies to find and prosecute the individuals who broke into and rioted at the U.S. Capitol on January 6,0,9,1,29,2,16,1,25,2,11,1,4,1,3,1,1,1,0,1,1,1
+133,domestic_policy,It is not too important for federal law enforcement agencies to find and prosecute the individuals who broke into and rioted at the U.S. Capitol on January 6,0,12,1,30,2,22,2,21,2,21,2,11,1,7,1,1,1,1,1,1,1
+134,domestic_policy,It is somewhat important for federal law enforcement agencies to find and prosecute the individuals who broke into and rioted at the U.S. Capitol on January 6,0,21,2,25,2,32,2,31,2,31,2,26,2,23,2,10,1,11,1,6,1
+135,domestic_policy,It is very important for federal law enforcement agencies to find and prosecute the individuals who broke into and rioted at the U.S. Capitol on January 6,0,56,3,15,1,28,2,21,2,36,2,58,3,66,4,88,5,88,5,92,5
+136,domestic_policy,People who are convicted of crimes in this country serve about the right amount of time in prison,0,37,2,32,2,51,3,29,2,50,3,39,2,32,2,39,2,41,3,12,1
+137,domestic_policy,People who are convicted of crimes in this country serve too little time in prison,0,32,2,58,3,34,2,61,4,28,2,36,2,10,1,29,2,19,1,4,1
+138,domestic_policy,People who are convicted of crimes in this country serve too much time in prison,0,28,2,8,1,12,1,8,1,20,1,22,2,55,3,28,2,37,2,81,5
+139,domestic_policy,Spending on policing should be decreased a little,0,9,1,1,1,2,1,4,1,7,1,5,1,20,1,8,1,16,1,24,2
+140,domestic_policy,Spending on policing should be decreased a lot,0,6,1,0,1,2,1,2,1,3,1,2,1,21,2,3,1,6,1,24,2
+141,domestic_policy,Spending on policing should be increased a little,0,26,2,34,2,36,2,30,2,26,2,29,2,11,1,24,2,21,2,13,1
+142,domestic_policy,Spending on policing should be increased a lot,0,21,2,36,2,29,2,35,2,19,1,24,2,5,1,23,2,10,1,4,1
+143,domestic_policy,Spending on policing should stay about the same,0,37,2,29,2,30,2,30,2,45,3,39,2,41,3,42,3,47,3,33,2
+144,domestic_policy,The criminal penalties the individuals who broke into the Capitol and rioted have been receiving are about right,0,29,2,30,2,43,3,34,2,45,3,31,2,31,2,18,1,23,2,14,1
+145,domestic_policy,The criminal penalties the individuals who broke into the Capitol and rioted have been receiving are not severe enough,0,48,3,8,1,14,1,15,1,27,2,51,3,61,4,76,4,71,4,84,5
+146,domestic_policy,The criminal penalties the individuals who broke into the Capitol and rioted have been receiving are too severe ,0,20,1,58,3,39,2,46,3,23,2,12,1,4,1,4,1,3,1,1,1
+147,domestic_policy,The use of marijuana by adults should be legal for medical AND recreational use,0,60,4,33,2,44,3,45,3,60,4,62,4,73,4,65,4,70,4,91,5
+148,domestic_policy,The use of marijuana by adults should be legal for medical use ONLY,0,31,2,47,3,43,3,44,3,33,2,28,2,22,2,25,2,25,2,7,1
+149,domestic_policy,The use of marijuana by adults should NOT be legal,0,8,1,19,1,11,1,11,1,7,1,8,1,4,1,7,1,5,1,2,1
+150,domestic_policy,Too little attention has been paid to the riot at the U.S. Capitol and its impacts,0,35,2,5,1,10,1,12,1,21,2,38,2,50,3,57,3,51,3,63,4
+151,domestic_policy,Too much attention has been paid to the riot at the U.S. Capitol and its impacts,0,29,2,79,4,58,3,65,4,36,2,21,2,12,1,6,1,6,1,3,1
+152,economics_finances,"A year from now, I expect that economic conditions in the country as a whole will be about the same as now",1,34,2,16,1,28,2,24,2,35,2,40,3,47,3,36,2,37,2,37,2
+153,economics_finances,"A year from now, I expect that economic conditions in the country as a whole will be better",1,29,2,4,1,14,1,5,1,18,1,26,2,29,2,47,3,55,3,52,3
+154,economics_finances,"A year from now, I expect that economic conditions in the country as a whole will be worse",1,37,2,80,5,58,3,71,4,47,3,34,2,24,2,16,1,7,1,12,1
+155,economics_finances,"A year from now, I expect that the financial situation of me and my family will be about the same as now",1,49,3,49,3,51,3,51,3,49,3,51,3,44,3,51,3,51,3,49,3
+156,economics_finances,"A year from now, I expect that the financial situation of me and my family will be better",1,36,2,20,1,30,2,21,2,34,2,33,2,48,3,42,3,44,3,47,3
+157,economics_finances,"A year from now, I expect that the financial situation of me and my family will be worse",1,14,1,30,2,19,1,26,2,16,1,15,1,8,1,7,1,4,1,4,1
+158,economics_finances,Business corporations make too much profit,0,64,4,19,1,21,2,81,5,28,2,77,4,84,5,79,4,74,4,93,5
+159,economics_finances,Economic conditions in this country today are excellent,0,2,1,0,1,1,1,0,1,1,1,3,1,1,1,3,1,3,1,0,1
+160,economics_finances,Economic conditions in this country today are good,0,24,2,8,1,23,2,8,1,25,2,22,2,22,2,29,2,45,3,24,2
+161,economics_finances,Economic conditions in this country today are only fair,0,50,3,47,3,51,3,46,3,50,3,52,3,58,3,53,3,46,3,58,3
+162,economics_finances,Economic conditions in this country today are poor,0,24,2,45,3,26,2,46,3,24,2,23,2,20,1,15,1,5,1,17,1
+163,economics_finances,Government regulation of business is necessary to protect the public interest,0,55,3,13,1,28,2,26,2,36,2,59,3,72,4,74,4,86,5,93,5
+164,economics_finances,Government regulation of business usually does more harm than good,0,43,3,85,5,70,4,73,4,63,4,39,2,25,2,23,2,12,1,7,1
+165,economics_finances,I am personally not at all concerned about employers being unable to find workers to hire,1,6,1,3,1,2,1,4,1,5,1,5,1,14,1,4,1,5,1,13,1
+166,economics_finances,I am personally not at all concerned about people facing eviction or foreclosure,1,7,1,17,1,13,1,12,1,9,1,6,1,3,1,3,1,2,1,2,1
+167,economics_finances,I am personally not at all concerned about people who want to work being unable to find jobs,1,15,1,26,2,24,2,22,2,22,2,12,1,8,1,8,1,8,1,6,1
+168,economics_finances,I am personally not at all concerned about rising prices for food and consumer goods,1,1,1,0,1,0,1,0,1,1,1,2,1,2,1,1,1,1,1,2,1
+169,economics_finances,I am personally not too concerned about employers being unable to find workers to hire,1,15,1,9,1,10,1,7,1,15,1,13,1,27,2,14,1,20,1,32,2
+170,economics_finances,I am personally not too concerned about people facing eviction or foreclosure,1,21,2,37,2,37,2,28,2,35,2,17,1,11,1,10,1,14,1,6,1
+171,economics_finances,I am personally not too concerned about people who want to work being unable to find jobs,1,23,2,31,2,29,2,22,2,32,2,22,2,24,2,18,1,24,2,19,1
+172,economics_finances,I am personally not too concerned about rising prices for food and consumer goods,1,6,1,3,1,5,1,2,1,8,1,3,1,5,1,5,1,11,1,8,1
+173,economics_finances,I am personally somewhat concerned about employers being unable to find workers to hire,1,37,2,30,2,35,2,33,2,43,3,36,2,38,2,36,2,45,3,37,2
+174,economics_finances,I am personally somewhat concerned about people facing eviction or foreclosure,1,37,2,33,2,33,2,33,2,39,2,38,2,43,3,34,2,42,3,32,2
+175,economics_finances,I am personally somewhat concerned about people who want to work being unable to find jobs,1,32,2,24,2,26,2,30,2,27,2,32,2,37,2,30,2,41,3,39,2
+176,economics_finances,I am personally somewhat concerned about rising prices for food and consumer goods,1,30,2,18,1,31,2,19,1,35,2,25,2,37,2,25,2,42,3,41,3
+177,economics_finances,I am personally very concerned about employers being unable to find workers to hire,1,42,3,58,3,53,3,56,3,37,2,46,3,22,2,46,3,30,2,18,1
+178,economics_finances,I am personally very concerned about people facing eviction or foreclosure,1,35,2,12,1,17,1,26,2,18,1,38,2,42,3,52,3,42,3,60,4
+179,economics_finances,I am personally very concerned about people who want to work being unable to find jobs,1,29,2,18,1,19,1,26,2,19,1,34,2,31,2,43,3,28,2,37,2
+180,economics_finances,I am personally very concerned about rising prices for food and consumer goods,1,63,4,79,4,64,4,79,4,54,3,70,4,55,3,69,4,46,3,49,3
+181,economics_finances,I do not have a savings account,1,26,2,22,2,19,1,26,2,26,2,33,2,27,2,26,2,22,2,16,1
+182,economics_finances,"I do not have an IRA, 401K or a similar kind of retirement account",1,43,3,33,2,27,2,42,3,40,3,50,3,50,3,46,3,38,2,36,2
+183,economics_finances,"I do not have personal investments in stocks, bonds or mutual funds other than those held in an IRA or 401K",1,58,3,49,3,43,3,59,3,51,3,66,4,65,4,64,4,52,3,57,3
+184,economics_finances,I have a savings account,1,72,4,76,4,76,4,70,4,72,4,64,4,72,4,72,4,76,4,83,5
+185,economics_finances,"I have an IRA, 401K or a similar kind of retirement account",1,54,3,64,4,69,4,54,3,59,3,46,3,49,3,51,3,60,4,62,4
+186,economics_finances,"I have personal investments in stocks, bonds or mutual funds other than those held in an IRA or 401K",1,39,2,48,3,53,3,37,2,47,3,31,2,34,2,34,2,45,3,43,3
+187,economics_finances,I pay about the right amount of taxes,1,44,3,38,2,33,2,26,2,38,2,42,3,52,3,44,3,59,3,58,3
+188,economics_finances,I pay less than my fair share of taxes,1,6,1,4,1,4,1,2,1,13,1,8,1,8,1,7,1,5,1,3,1
+189,economics_finances,I pay more than my fair share of taxes,1,49,3,57,3,63,4,72,4,48,3,49,3,39,2,48,3,34,2,39,2
+190,economics_finances,I somewhat favor raising the federal minimum wage to $15.00 an hour,1,21,2,6,1,10,1,12,1,20,1,33,2,28,2,25,2,31,2,18,1
+191,economics_finances,I somewhat oppose raising the federal minimum wage to $15.00 an hour,1,17,1,21,2,24,2,31,2,26,2,20,1,12,1,11,1,8,1,2,1
+192,economics_finances,I strongly favor raising the federal minimum wage to $15.00 an hour,1,40,3,3,1,11,1,16,1,21,2,41,3,59,3,59,3,59,3,80,5
+193,economics_finances,I strongly oppose raising the federal minimum wage to $15.00 an hour,1,21,2,68,4,56,3,41,3,32,2,5,1,1,1,4,1,1,1,0,1
+194,economics_finances,Most corporations make a fair and reasonable amount of profit,0,34,2,80,5,76,4,17,1,70,4,20,1,14,1,18,1,23,2,6,1
+195,economics_finances,My personal financial situation is in excellent shape,0,9,1,10,1,12,1,5,1,12,1,6,1,7,1,8,1,15,1,12,1
+196,economics_finances,My personal financial situation is in good shape,0,41,3,51,3,57,3,41,3,42,3,31,2,38,2,38,2,48,3,45,3
+197,economics_finances,My personal financial situation is in only fair shape,0,36,2,31,2,24,2,38,2,36,2,43,3,41,3,35,2,29,2,34,2
+198,economics_finances,My personal financial situation is in poor shape,0,13,1,7,1,6,1,14,1,9,1,20,1,14,1,19,1,7,1,9,1
+199,economics_finances,"Tax rates on household income over $400,000 should be kept the same as they are now",0,24,2,51,3,45,3,29,2,38,2,20,1,13,1,13,1,12,1,6,1
+200,economics_finances,"Tax rates on household income over $400,000 should be lowered a little",0,7,1,13,1,11,1,7,1,9,1,8,1,4,1,5,1,5,1,2,1
+201,economics_finances,"Tax rates on household income over $400,000 should be lowered a lot",0,5,1,10,1,7,1,5,1,9,1,4,1,2,1,5,1,2,1,1,1
+202,economics_finances,"Tax rates on household income over $400,000 should be raised a little",0,35,2,19,1,28,2,38,2,32,2,39,2,38,2,39,2,44,3,33,2
+203,economics_finances,"Tax rates on household income over $400,000 should be raised a lot",0,26,2,5,1,6,1,19,1,10,1,26,2,40,3,37,2,36,2,58,3
+204,economics_finances,Tax rates on large businesses and corporations should be kept the same as they are now,0,21,2,49,3,47,3,28,2,33,2,17,1,7,1,7,1,6,1,1,1
+205,economics_finances,Tax rates on large businesses and corporations should be lowered a little,0,7,1,17,1,11,1,9,1,12,1,7,1,2,1,2,1,3,1,0,1
+206,economics_finances,Tax rates on large businesses and corporations should be lowered a lot,0,5,1,12,1,9,1,5,1,7,1,3,1,2,1,2,1,1,1,0,1
+207,economics_finances,Tax rates on large businesses and corporations should be raised a little,0,29,2,16,1,22,2,34,2,30,2,37,2,23,2,33,2,36,2,14,1
+208,economics_finances,Tax rates on large businesses and corporations should be raised a lot,0,37,2,5,1,9,1,22,2,16,1,33,2,64,4,53,3,54,3,84,5
+209,economics_finances,The amount I pay in taxes bothers me a lot,1,33,2,37,2,40,3,51,3,38,2,34,2,22,2,35,2,21,2,22,2
+210,economics_finances,The amount I pay in taxes bothers me some,1,33,2,40,3,34,2,28,2,33,2,35,2,33,2,31,2,30,2,25,2
+211,economics_finances,The amount I pay in taxes does not bother me at all,1,10,1,6,1,7,1,9,1,9,1,11,1,11,1,10,1,14,1,16,1
+212,economics_finances,The amount I pay in taxes does not bother me too much,1,24,2,17,1,19,1,11,1,20,1,20,1,34,2,24,2,33,2,37,2
+213,economics_finances,The complexity of the tax system bothers me a lot,0,47,3,55,3,48,3,58,3,46,3,38,2,49,3,50,3,41,3,48,3
+214,economics_finances,The complexity of the tax system bothers me some,0,35,2,28,2,33,2,30,2,31,2,38,2,38,2,33,2,42,3,38,2
+215,economics_finances,The complexity of the tax system does not bother me at all,0,4,1,4,1,6,1,5,1,4,1,7,1,1,1,3,1,4,1,2,1
+216,economics_finances,The complexity of the tax system does not bother me too much,0,12,1,13,1,13,1,6,1,18,1,16,1,12,1,12,1,12,1,12,1
+217,economics_finances,The economic system in this country is generally fair to most Americans,0,28,2,74,4,71,4,12,1,59,3,15,1,6,1,13,1,16,1,2,1
+218,economics_finances,The economic system in this country unfairly favors powerful interests,0,71,4,25,2,28,2,87,5,40,3,83,5,94,5,85,5,83,5,97,5
+219,economics_finances,The fact that there are some people in this country who have personal fortunes of a billion dollars or more is a bad thing for the country,0,29,2,7,1,8,1,21,2,18,1,26,2,55,3,29,2,39,2,73,4
+220,economics_finances,The fact that there are some people in this country who have personal fortunes of a billion dollars or more is a good thing for the country,0,15,1,28,2,27,2,11,1,22,2,14,1,5,1,11,1,12,1,2,1
+221,economics_finances,The fact that there are some people in this country who have personal fortunes of a billion dollars or more is neither a good nor a bad thing for the country,0,55,3,64,4,64,4,68,4,59,3,59,3,39,2,58,3,49,3,25,2
+222,economics_finances,The feeling that some corporations don’t pay their fair share bothers me a lot,0,59,3,18,1,23,2,51,3,34,2,61,4,75,4,82,5,75,4,96,5
+223,economics_finances,The feeling that some corporations don’t pay their fair share bothers me some,0,22,2,31,2,35,2,32,2,31,2,28,2,16,1,11,1,17,1,3,1
+224,economics_finances,The feeling that some corporations don’t pay their fair share does not bother me at all,0,6,1,22,2,16,1,5,1,11,1,3,1,2,1,3,1,2,1,1,1
+225,economics_finances,The feeling that some corporations don’t pay their fair share does not bother me too much,0,12,1,29,2,24,2,12,1,23,2,7,1,7,1,4,1,4,1,1,1
+226,economics_finances,The feeling that some poor people don’t pay their fair share bothers me a lot,0,13,1,19,1,21,2,20,1,12,1,15,1,5,1,10,1,9,1,6,1
+227,economics_finances,The feeling that some poor people don’t pay their fair share bothers me some,0,19,1,28,2,28,2,22,2,27,2,23,2,10,1,17,1,7,1,5,1
+228,economics_finances,The feeling that some poor people don’t pay their fair share does not bother me at all,0,37,2,19,1,21,2,23,2,24,2,27,2,55,3,42,3,52,3,74,4
+229,economics_finances,The feeling that some poor people don’t pay their fair share does not bother me too much,0,31,2,33,2,28,2,35,2,36,2,34,2,30,2,29,2,31,2,15,1
+230,economics_finances,The feeling that some wealthy people don’t pay their fair share bothers me a lot,0,59,3,18,1,25,2,50,3,33,2,62,4,74,4,82,5,76,4,93,5
+231,economics_finances,The feeling that some wealthy people don’t pay their fair share bothers me some,0,21,2,29,2,27,2,29,2,30,2,27,2,19,1,10,1,17,1,3,1
+232,economics_finances,The feeling that some wealthy people don’t pay their fair share does not bother me at all,0,7,1,25,2,20,1,4,1,12,1,3,1,1,1,3,1,2,1,1,1
+233,economics_finances,The feeling that some wealthy people don’t pay their fair share does not bother me too much,0,12,1,29,2,27,2,16,1,23,2,8,1,5,1,5,1,4,1,2,1
+234,elected_officials_and_parties,Donald Trump should run for President himself,0,21,2,55,3,42,3,57,3,21,2,19,1,3,1,4,1,1,1,0,1
+235,elected_officials_and_parties,Donald Trump should support another presidential candidate who shares his views,0,12,1,27,2,25,2,24,2,13,1,12,1,3,1,2,1,2,1,1,1
+236,elected_officials_and_parties,I am not at all confident that Joe Biden can bring the country closer together,1,37,2,89,5,69,4,82,5,49,3,31,2,23,2,8,1,2,1,10,1
+237,elected_officials_and_parties,I am not at all confident that Joe Biden can handle the public health impact of the coronavirus outbreak. ,1,30,2,81,5,50,3,74,4,38,2,25,2,11,1,5,1,1,1,4,1
+238,elected_officials_and_parties,I am not at all confident that Joe Biden can make good decisions about economic policy,1,32,2,86,5,65,4,78,4,46,3,21,2,13,1,4,1,1,1,7,1
+239,elected_officials_and_parties,I am not at all confident that Joe Biden can make good decisions about foreign policy,1,34,2,89,5,65,4,80,5,47,3,26,2,13,1,6,1,1,1,6,1
+240,elected_officials_and_parties,I am not at all confident that Joe Biden can make wise decisions about immigration policy,1,37,2,93,5,74,4,86,5,46,3,29,2,15,1,6,1,1,1,6,1
+241,elected_officials_and_parties,I am not at all confident that Joe Biden can use military force wisely,1,34,2,86,5,66,4,78,4,47,3,26,2,16,1,6,1,1,1,8,1
+242,elected_officials_and_parties,I am not too confident that Joe Biden can bring the country closer together,1,28,2,9,1,19,1,14,1,33,2,35,2,38,2,27,2,31,2,38,2
+243,elected_officials_and_parties,I am not too confident that Joe Biden can handle the public health impact of the coronavirus outbreak. ,1,19,1,15,1,30,2,21,2,30,2,25,2,25,2,12,1,6,1,5,1
+244,elected_officials_and_parties,I am not too confident that Joe Biden can make good decisions about economic policy,1,19,1,13,1,23,2,18,1,27,2,35,2,22,2,11,1,7,1,9,1
+245,elected_officials_and_parties,I am not too confident that Joe Biden can make good decisions about foreign policy,1,20,1,10,1,21,2,18,1,28,2,33,2,29,2,11,1,12,1,11,1
+246,elected_officials_and_parties,I am not too confident that Joe Biden can make wise decisions about immigration policy,1,20,1,6,1,18,1,13,1,31,2,34,2,28,2,16,1,12,1,14,1
+247,elected_officials_and_parties,I am not too confident that Joe Biden can use military force wisely,1,20,1,10,1,22,2,17,1,25,2,34,2,27,2,13,1,11,1,13,1
+248,elected_officials_and_parties,I am somewhat confident that Joe Biden can bring the country closer together,1,25,2,2,1,8,1,3,1,12,1,26,2,35,2,44,3,46,3,42,3
+249,elected_officials_and_parties,I am somewhat confident that Joe Biden can handle the public health impact of the coronavirus outbreak. ,1,30,2,4,1,15,1,5,1,25,2,36,2,46,3,44,3,41,3,48,3
+250,elected_officials_and_parties,I am somewhat confident that Joe Biden can make good decisions about economic policy,1,31,2,1,1,8,1,3,1,19,1,33,2,53,3,44,3,49,3,49,3
+251,elected_officials_and_parties,I am somewhat confident that Joe Biden can make good decisions about foreign policy,1,29,2,1,1,11,1,2,1,20,1,30,2,47,3,45,3,47,3,51,3
+252,elected_officials_and_parties,I am somewhat confident that Joe Biden can make wise decisions about immigration policy,1,29,2,0,1,4,1,1,1,16,1,27,2,46,3,46,3,52,3,55,3
+253,elected_officials_and_parties,I am somewhat confident that Joe Biden can use military force wisely,1,28,2,3,1,8,1,5,1,20,1,28,2,45,3,41,3,48,3,45,3
+254,elected_officials_and_parties,I am very confident that Joe Biden can bring the country closer together,1,9,1,0,1,4,1,0,1,5,1,7,1,3,1,21,2,20,1,8,1
+255,elected_officials_and_parties,I am very confident that Joe Biden can handle the public health impact of the coronavirus outbreak. ,1,21,2,0,1,5,1,0,1,7,1,14,1,18,1,39,2,52,3,41,3
+256,elected_officials_and_parties,I am very confident that Joe Biden can make good decisions about economic policy,1,17,1,0,1,4,1,0,1,7,1,10,1,11,1,39,2,44,3,34,2
+257,elected_officials_and_parties,I am very confident that Joe Biden can make good decisions about foreign policy,1,17,1,0,1,3,1,1,1,6,1,11,1,9,1,37,2,40,3,31,2
+258,elected_officials_and_parties,I am very confident that Joe Biden can make wise decisions about immigration policy,1,14,1,0,1,3,1,0,1,5,1,9,1,9,1,32,2,36,2,24,2
+259,elected_officials_and_parties,I am very confident that Joe Biden can use military force wisely,1,17,1,0,1,3,1,0,1,7,1,12,1,10,1,39,2,40,3,32,2
+260,elected_officials_and_parties,I approve of the job the DEMOCRATIC leaders in Congress are doing,1,39,2,1,1,6,1,3,1,20,1,31,2,45,3,70,4,83,5,72,4
+261,elected_officials_and_parties,I approve of the job the REPUBLICAN leaders in Congress are doing,1,27,2,52,3,61,4,54,3,27,2,31,2,12,1,9,1,11,1,3,1
+262,elected_officials_and_parties,I approve of the way Joe Biden is handling his job as president?,1,44,3,1,1,8,1,2,1,20,1,39,2,62,4,79,4,87,5,82,5
+263,elected_officials_and_parties,I disapprove of the job the DEMOCRATIC leaders in Congress are doing,1,58,3,97,5,94,5,95,5,77,4,64,4,51,3,28,2,15,1,26,2
+264,elected_officials_and_parties,I disapprove of the job the REPUBLICAN leaders in Congress are doing,1,70,4,45,3,36,2,44,3,70,4,62,4,85,5,89,5,87,5,96,5
+265,elected_officials_and_parties,I disapprove of the way Joe Biden is handling his job as president?=,1,53,3,98,5,91,5,96,5,77,4,58,3,34,2,18,1,10,1,16,1
+266,elected_officials_and_parties,"I dislike it a little when political leaders have a degree from a prestigious university, such as Harvard or Stanford",1,6,1,10,1,4,1,7,1,7,1,5,1,5,1,5,1,3,1,5,1
+267,elected_officials_and_parties,I dislike it a little when political leaders have not been vaccinated against COVID-19,1,9,1,5,1,11,1,6,1,10,1,12,1,12,1,9,1,12,1,8,1
+268,elected_officials_and_parties,I dislike it a little when political leaders have served in the military,1,3,1,0,1,1,1,1,1,3,1,2,1,5,1,3,1,2,1,8,1
+269,elected_officials_and_parties,I dislike it a little when political leaders identify as democratic socialist,1,9,1,4,1,10,1,6,1,12,1,12,1,8,1,12,1,10,1,3,1
+270,elected_officials_and_parties,I dislike it a little when political leaders publicly assert that Donald Trump is the legitimate winner of the 2020 election,1,7,1,5,1,11,1,5,1,14,1,10,1,8,1,4,1,2,1,2,1
+271,elected_officials_and_parties,"I dislike it a lot when political leaders have a degree from a prestigious university, such as Harvard or Stanford",1,6,1,10,1,3,1,10,1,7,1,6,1,3,1,6,1,2,1,1,1
+272,elected_officials_and_parties,I dislike it a lot when political leaders have not been vaccinated against COVID-19,1,38,2,10,1,22,2,16,1,24,2,30,2,52,3,55,3,66,4,74,4
+273,elected_officials_and_parties,I dislike it a lot when political leaders have served in the military,1,3,1,1,1,1,1,2,1,5,1,3,1,4,1,5,1,3,1,2,1
+274,elected_officials_and_parties,I dislike it a lot when political leaders identify as democratic socialist,1,34,2,86,5,79,4,73,4,50,3,23,2,7,1,12,1,6,1,2,1
+275,elected_officials_and_parties,I dislike it a lot when political leaders publicly assert that Donald Trump is the legitimate winner of the 2020 election,1,50,3,4,1,13,1,4,1,32,2,43,3,74,4,83,5,89,5,94,5
+276,elected_officials_and_parties,I feel cold towards Democrats,1,10,1,10,1,23,2,13,1,21,2,12,1,11,1,2,1,1,1,2,1
+277,elected_officials_and_parties,I feel cold towards Donald Trump,1,7,1,2,1,6,1,4,1,13,1,12,1,10,1,5,1,6,1,1,1
+278,elected_officials_and_parties,I feel cold towards Joe Biden,1,10,1,7,1,18,1,12,1,21,2,15,1,7,1,2,1,2,1,5,1
+279,elected_officials_and_parties,I feel cold towards Republicans,1,13,1,3,1,3,1,5,1,12,1,14,1,21,2,18,1,20,1,14,1
+280,elected_officials_and_parties,I feel neutral Democrats,1,20,1,5,1,9,1,11,1,28,2,45,3,30,2,17,1,11,1,11,1
+281,elected_officials_and_parties,I feel neutral Donald Trump,1,11,1,4,1,10,1,10,1,20,1,22,2,11,1,8,1,4,1,0,1
+282,elected_officials_and_parties,I feel neutral Joe Biden,1,14,1,5,1,8,1,7,1,17,1,28,2,23,2,11,1,8,1,8,1
+283,elected_officials_and_parties,I feel neutral Republicans,1,22,2,10,1,10,1,17,1,34,2,45,3,28,2,21,2,13,1,4,1
+284,elected_officials_and_parties,I feel very cold towards Democrats,1,31,2,83,5,64,4,75,4,37,2,19,1,14,1,3,1,2,1,8,1
+285,elected_officials_and_parties,I feel very cold towards Donald Trump,1,50,3,4,1,8,1,7,1,32,2,41,3,75,4,83,5,88,5,97,5
+286,elected_officials_and_parties,I feel very cold towards Joe Biden,1,33,2,88,5,65,4,78,4,39,2,19,1,15,1,5,1,4,1,5,1
+287,elected_officials_and_parties,I feel very cold towards Republicans,1,34,2,3,1,7,1,4,1,26,2,20,1,45,3,58,3,63,4,82,5
+288,elected_officials_and_parties,I feel very warm towards Democrats,1,22,2,0,1,2,1,0,1,5,1,9,1,13,1,56,3,57,3,44,3
+289,elected_officials_and_parties,I feel very warm towards Donald Trump,1,22,2,73,4,54,3,60,4,17,1,13,1,1,1,2,1,0,1,0,1
+290,elected_officials_and_parties,I feel very warm towards Joe Biden,1,28,2,0,1,3,1,2,1,13,1,20,1,21,2,63,4,65,4,48,3
+291,elected_officials_and_parties,I feel very warm towards Republicans,1,18,1,57,3,49,3,50,3,8,1,9,1,1,1,2,1,1,1,0,1
+292,elected_officials_and_parties,I feel warm towards Democrats,1,16,1,1,1,2,1,1,1,9,1,14,1,33,2,22,2,29,2,35,2
+293,elected_officials_and_parties,I feel warm towards Donald Trump,1,10,1,16,1,22,2,20,1,18,1,11,1,3,1,2,1,1,1,0,1
+294,elected_officials_and_parties,I feel warm towards Joe Biden,1,16,1,0,1,6,1,2,1,10,1,18,1,34,2,18,1,21,2,33,2
+295,elected_officials_and_parties,I feel warm towards Republicans,1,13,1,28,2,31,2,23,2,21,2,12,1,4,1,2,1,3,1,0,1
+296,elected_officials_and_parties,"I like it a little when political leaders have a degree from a prestigious university, such as Harvard or Stanford",1,14,1,5,1,14,1,7,1,16,1,12,1,18,1,13,1,21,2,22,2
+297,elected_officials_and_parties,I like it a little when political leaders have not been vaccinated against COVID-19,1,4,1,4,1,3,1,4,1,4,1,4,1,2,1,3,1,3,1,1,1
+298,elected_officials_and_parties,I like it a little when political leaders have served in the military,1,24,2,23,2,29,2,24,2,27,2,25,2,22,2,22,2,28,2,19,1
+299,elected_officials_and_parties,I like it a little when political leaders identify as democratic socialist,1,9,1,0,1,2,1,1,1,3,1,6,1,18,1,13,1,20,1,21,2
+300,elected_officials_and_parties,I like it a little when political leaders publicly assert that Donald Trump is the legitimate winner of the 2020 election,1,7,1,15,1,14,1,15,1,8,1,6,1,2,1,2,1,2,1,1,1
+301,elected_officials_and_parties,"I like it a lot when political leaders have a degree from a prestigious university, such as Harvard or Stanford",1,7,1,1,1,4,1,4,1,5,1,7,1,9,1,13,1,9,1,5,1
+302,elected_officials_and_parties,I like it a lot when political leaders have not been vaccinated against COVID-19,1,9,1,12,1,7,1,14,1,7,1,8,1,5,1,9,1,6,1,8,1
+303,elected_officials_and_parties,I like it a lot when political leaders have served in the military,1,28,2,51,3,43,3,45,3,29,2,27,2,11,1,26,2,16,1,7,1
+304,elected_officials_and_parties,I like it a lot when political leaders identify as democratic socialist,1,8,1,1,1,0,1,2,1,2,1,3,1,14,1,10,1,12,1,39,2
+305,elected_officials_and_parties,I like it a lot when political leaders publicly assert that Donald Trump is the legitimate winner of the 2020 election,1,14,1,44,3,26,2,45,3,8,1,9,1,1,1,2,1,0,1,0,1
+306,elected_officials_and_parties,"I neither like nor dislike when political leaders have a degree from a prestigious university, such as Harvard or Stanford",1,67,4,72,4,75,4,71,4,64,4,68,4,65,4,62,4,64,4,67,4
+307,elected_officials_and_parties,I neither like nor dislike when political leaders have not been vaccinated against COVID-19,1,39,2,67,4,56,3,58,3,55,3,44,3,28,2,23,2,12,1,9,1
+308,elected_officials_and_parties,I neither like nor dislike when political leaders have served in the military,1,41,3,23,2,25,2,27,2,35,2,41,3,57,3,43,3,50,3,63,4
+309,elected_officials_and_parties,I neither like nor dislike when political leaders identify as democratic socialist,1,37,2,7,1,8,1,17,1,32,2,53,3,52,3,52,3,51,3,35,2
+310,elected_officials_and_parties,I neither like nor dislike when political leaders publicly assert that Donald Trump is the legitimate winner of the 2020 election,1,22,2,31,2,36,2,29,2,36,2,30,2,14,1,8,1,6,1,2,1
+311,elected_officials_and_parties,I usually feel like none of the candidates represent my views well,1,38,2,21,2,20,1,33,2,73,4,41,3,86,5,28,2,13,1,16,1
+312,elected_officials_and_parties,I usually feel like there is at least one candidate who shares most of my views,1,60,4,77,4,78,4,66,4,25,2,55,3,12,1,68,4,84,5,83,5
+313,elected_officials_and_parties,I would like to see Donald Trump continue to be a major national political figure for many years to come,1,33,2,83,5,67,4,81,5,35,2,31,2,6,1,6,1,3,1,1,1
+314,elected_officials_and_parties,I would not like to see Donald Trump continue to be a major national political figure for many years to come,1,65,4,16,1,31,2,17,1,63,4,67,4,91,5,93,5,97,5,98,5
+315,elected_officials_and_parties,It is not at all important that candidates running for high levels of political office have prior government experience,0,10,1,34,2,15,1,17,1,14,1,6,1,5,1,2,1,1,1,2,1
+316,elected_officials_and_parties,It is not too important that candidates running for high levels of political office have prior government experience,0,22,2,38,2,35,2,33,2,30,2,16,1,18,1,10,1,14,1,13,1
+317,elected_officials_and_parties,It is somewhat important that candidates running for high levels of political office have prior government experience,0,39,2,20,1,37,2,34,2,40,3,42,3,44,3,42,3,44,3,46,3
+318,elected_officials_and_parties,It is very important that candidates running for high levels of political office have prior government experience,0,28,2,7,1,12,1,16,1,15,1,35,2,31,2,44,3,38,2,37,2
+319,elected_officials_and_parties,The Democractic party does not make me feel angry,0,53,3,10,1,18,1,13,1,45,3,56,3,69,4,77,4,86,5,76,4
+320,elected_officials_and_parties,The Democractic party does not make me feel frustrated,0,34,2,6,1,10,1,8,1,27,2,36,2,40,3,56,3,57,3,34,2
+321,elected_officials_and_parties,The Democractic party does not make me feel hopeful,0,59,3,97,5,95,5,94,5,83,5,62,4,59,3,24,2,15,1,24,2
+322,elected_officials_and_parties,The Democractic party does not make me feel proud,0,73,4,98,5,97,5,96,5,88,5,76,4,84,5,43,3,39,2,56,3
+323,elected_officials_and_parties,The Democractic party makes me feel angry,0,45,3,89,5,81,5,87,5,53,3,41,3,30,2,20,1,11,1,23,2
+324,elected_officials_and_parties,The Democractic party makes me feel frustrated,0,64,4,93,5,89,5,92,5,71,4,61,4,59,3,42,3,39,2,65,4
+325,elected_officials_and_parties,The Democractic party makes me feel hopeful,0,39,2,2,1,4,1,5,1,15,1,35,2,40,3,74,4,82,5,75,4
+326,elected_officials_and_parties,The Democractic party makes me feel proud,0,25,2,1,1,3,1,3,1,10,1,20,1,15,1,54,3,57,3,42,3
+327,elected_officials_and_parties,The DEMOCRATIC PARTY does represent the interests of people like me too well,0,23,2,13,1,29,2,25,2,41,3,33,2,28,2,12,1,9,1,17,1
+328,elected_officials_and_parties,The DEMOCRATIC PARTY does represent the interests of people like me well at all,0,28,2,83,5,59,3,69,4,32,2,14,1,15,1,3,1,1,1,1,1
+329,elected_officials_and_parties,The DEMOCRATIC PARTY represent the interests of people like me somewhat well,0,36,2,3,1,8,1,5,1,21,2,42,3,50,3,59,3,63,4,64,4
+330,elected_officials_and_parties,The DEMOCRATIC PARTY represent the interests of people like me very well,0,10,1,1,1,2,1,1,1,4,1,4,1,4,1,24,2,23,2,16,1
+331,elected_officials_and_parties,The description 'a good role model' describes Joe Biden fairly well ,0,27,2,3,1,6,1,5,1,18,1,27,2,47,3,40,3,37,2,43,3
+332,elected_officials_and_parties,The description 'a good role model' describes Joe Biden very well ,0,21,2,0,1,2,1,1,1,7,1,22,2,14,1,46,3,52,3,40,3
+333,elected_officials_and_parties,The description 'a good role model' does not at all describe Joe Biden too well ,0,31,2,81,5,65,4,80,5,41,3,24,2,9,1,6,1,1,1,0,1
+334,elected_officials_and_parties,The description 'a good role model' does not describe Joe Biden too well ,0,20,1,15,1,27,2,14,1,33,2,26,2,27,2,8,1,8,1,16,1
+335,elected_officials_and_parties,The description 'cares about the needs of ordinary people' describes Joe Biden fairly well ,0,29,2,4,1,13,1,5,1,28,2,33,2,43,3,36,2,36,2,45,3
+336,elected_officials_and_parties,The description 'cares about the needs of ordinary people' describes Joe Biden very well ,0,24,2,1,1,3,1,2,1,8,1,22,2,19,1,49,3,60,4,47,3
+337,elected_officials_and_parties,The description 'cares about the needs of ordinary people' does not at all describe Joe Biden too well ,0,27,2,75,4,52,3,73,4,28,2,22,2,12,1,7,1,1,1,1,1
+338,elected_officials_and_parties,The description 'cares about the needs of ordinary people' does not describe Joe Biden too well ,0,19,1,20,1,30,2,20,1,36,2,22,2,24,2,8,1,3,1,6,1
+339,elected_officials_and_parties,The description 'honest' describes Joe Biden fairly well ,0,30,2,2,1,8,1,5,1,25,2,37,2,53,3,41,3,42,3,39,2
+340,elected_officials_and_parties,The description 'honest' describes Joe Biden very well ,0,20,1,1,1,2,1,2,1,8,1,17,1,13,1,45,3,48,3,45,3
+341,elected_officials_and_parties,The description 'honest' does not at all describe Joe Biden too well ,0,28,2,80,5,60,4,73,4,31,2,21,2,11,1,5,1,1,1,0,1
+342,elected_officials_and_parties,The description 'honest' does not describe Joe Biden too well ,0,21,2,16,1,30,2,19,1,36,2,25,2,21,2,9,1,8,1,14,1
+343,elected_officials_and_parties,The description 'mentally well' describes Joe Biden fairly well ,0,30,2,1,1,5,1,5,1,15,1,30,2,49,3,48,3,49,3,55,3
+344,elected_officials_and_parties,The description 'mentally well' describes Joe Biden very well ,0,14,1,0,1,1,1,1,1,5,1,12,1,8,1,30,2,33,2,27,2
+345,elected_officials_and_parties,The description 'mentally well' does not at all describe Joe Biden too well ,0,35,2,90,5,77,4,85,5,51,3,29,2,11,1,6,1,2,1,2,1
+346,elected_officials_and_parties,The description 'mentally well' does not describe Joe Biden too well ,0,21,2,8,1,16,1,9,1,28,2,28,2,30,2,15,1,14,1,17,1
+347,elected_officials_and_parties,The description 'stands up for what he believes in' describes Joe Biden fairly well ,0,33,2,16,1,27,2,18,1,36,2,37,2,50,3,35,2,34,2,38,2
+348,elected_officials_and_parties,The description 'stands up for what he believes in' describes Joe Biden very well ,0,28,2,4,1,4,1,4,1,12,1,26,2,19,1,54,3,60,4,50,3
+349,elected_officials_and_parties,The description 'stands up for what he believes in' does not at all describe Joe Biden too well ,0,20,1,54,3,40,3,53,3,22,2,15,1,9,1,4,1,0,1,1,1
+350,elected_officials_and_parties,The description 'stands up for what he believes in' does not describe Joe Biden too well ,0,19,1,24,2,27,2,23,2,28,2,20,1,19,1,7,1,6,1,11,1
+351,elected_officials_and_parties,The description 'takes responsibility for his actions' describes Joe Biden fairly well ,0,27,2,2,1,8,1,5,1,17,1,27,2,41,3,38,2,45,3,42,3
+352,elected_officials_and_parties,The description 'takes responsibility for his actions' describes Joe Biden very well ,0,22,2,0,1,2,1,2,1,10,1,21,2,16,1,44,3,48,3,45,3
+353,elected_officials_and_parties,The description 'takes responsibility for his actions' does not at all describe Joe Biden too well ,0,30,2,83,5,65,4,78,4,39,2,22,2,9,1,6,1,0,1,1,1
+354,elected_officials_and_parties,The description 'takes responsibility for his actions' does not describe Joe Biden too well ,0,20,1,14,1,24,2,15,1,34,2,29,2,31,2,11,1,6,1,12,1
+355,elected_officials_and_parties,"The people who supported a different candidate than I did in the 2020 presidential election may feel differently than I do about politics and they probably DON'T SHARE many of my other values and goals, either",1,54,3,71,4,57,3,66,4,41,3,41,3,52,3,53,3,53,3,69,4
+356,elected_officials_and_parties,The people who supported a different candidate than I did in the 2020 presidential election may feel differently than I do about politics but they probably SHARE many of my other values and goals,1,44,3,28,2,42,3,33,2,56,3,56,3,46,3,43,3,44,3,30,2
+357,elected_officials_and_parties,The quality of the candidates running for political office in the last several years has been somewhat bad,0,42,3,45,3,45,3,48,3,39,2,38,2,45,3,37,2,40,3,51,3
+358,elected_officials_and_parties,The quality of the candidates running for political office in the last several years has been somewhat good,0,32,2,27,2,30,2,23,2,27,2,39,2,22,2,37,2,43,3,27,2
+359,elected_officials_and_parties,The quality of the candidates running for political office in the last several years has been very bad,0,22,2,25,2,19,1,26,2,32,2,18,1,30,2,21,2,12,1,19,1
+360,elected_officials_and_parties,The quality of the candidates running for political office in the last several years has been very good,0,2,1,1,1,3,1,3,1,1,1,3,1,1,1,3,1,3,1,1,1
+361,elected_officials_and_parties,The Republican party does not make me feel angry,0,48,3,73,4,80,5,76,4,62,4,56,3,37,2,24,2,20,1,12,1
+362,elected_officials_and_parties,The Republican party does not make me feel frustrated,0,30,2,44,3,54,3,55,3,37,2,38,2,21,2,17,1,8,1,6,1
+363,elected_officials_and_parties,The Republican party does not make me feel hopeful,0,67,4,26,2,23,2,26,2,66,4,67,4,91,5,89,5,92,5,96,5
+364,elected_officials_and_parties,The Republican party does not make me feel proud,0,77,4,45,3,49,3,44,3,82,5,76,4,96,5,93,5,94,5,98,5
+365,elected_officials_and_parties,The REPUBLICAN PARTY does represent the interests of people like me too well,0,27,2,11,1,10,1,13,1,36,2,34,2,31,2,34,2,33,2,18,1
+366,elected_officials_and_parties,The REPUBLICAN PARTY does represent the interests of people like me well at all,0,29,2,1,1,2,1,5,1,11,1,14,1,51,3,50,3,53,3,79,4
+367,elected_officials_and_parties,The Republican party makes me feel angry,0,50,3,25,2,19,1,23,2,36,2,41,3,63,4,74,4,77,4,87,5
+368,elected_officials_and_parties,The Republican party makes me feel frustrated,0,68,4,55,3,45,3,44,3,61,4,59,3,78,4,81,5,89,5,93,5
+369,elected_officials_and_parties,The Republican party makes me feel hopeful,0,31,2,73,4,76,4,73,4,32,2,30,2,8,1,9,1,5,1,3,1
+370,elected_officials_and_parties,The Republican party makes me feel proud,0,21,2,53,3,49,3,55,3,16,1,19,1,3,1,5,1,3,1,1,1
+371,elected_officials_and_parties,The REPUBLICAN PARTY represent the interests of people like me somewhat well,0,33,2,63,4,65,4,56,3,46,3,41,3,12,1,11,1,7,1,2,1
+372,elected_officials_and_parties,The REPUBLICAN PARTY represent the interests of people like me very well,0,9,1,24,2,22,2,25,2,4,1,5,1,1,1,2,1,2,1,0,1
+373,elected_officials_and_parties,There is a fair amount of difference in what the Democratic and Republican parties stand for,0,31,2,15,1,18,1,15,1,50,3,47,3,50,3,25,2,26,2,22,2
+374,elected_officials_and_parties,There is a great deal of difference in what the Democratic and Republican parties stand for,0,59,3,82,5,80,5,81,5,30,2,35,2,23,2,72,4,71,4,72,4
+375,elected_officials_and_parties,There is hardly any difference in what the Democratic and Republican parties stand for,0,9,1,3,1,2,1,4,1,20,1,16,1,26,2,2,1,2,1,5,1
+376,elected_officials_and_parties,"Thinking about all of the U.S. presidents over the past 40 years, Barack Obama has done the best job as president",0,35,2,0,1,3,1,2,1,16,1,27,2,56,3,54,3,66,4,72,4
+377,elected_officials_and_parties,"Thinking about all of the U.S. presidents over the past 40 years, Bill Clinton has done the best job as president",0,12,1,1,1,3,1,5,1,14,1,14,1,19,1,22,2,17,1,14,1
+378,elected_officials_and_parties,"Thinking about all of the U.S. presidents over the past 40 years, Donald Trump has done the best job as president",0,17,1,48,3,35,2,47,3,16,1,13,1,4,1,2,1,0,1,0,1
+379,elected_officials_and_parties,"Thinking about all of the U.S. presidents over the past 40 years, George H.W. Bush has done the best job as president",0,3,1,1,1,3,1,4,1,6,1,4,1,3,1,4,1,2,1,1,1
+380,elected_officials_and_parties,"Thinking about all of the U.S. presidents over the past 40 years, George W. Bush has done the best job as president",0,4,1,2,1,5,1,4,1,5,1,7,1,3,1,2,1,1,1,0,1
+381,elected_officials_and_parties,"Thinking about all of the U.S. presidents over the past 40 years, Joe Biden has done the best job as president",0,3,1,0,1,0,1,0,1,1,1,2,1,4,1,6,1,5,1,8,1
+382,elected_officials_and_parties,"Thinking about all of the U.S. presidents over the past 40 years, Ronald Reagan has done the best job as president",0,23,2,46,3,49,3,37,2,38,2,28,2,6,1,8,1,6,1,3,1
+383,elections,Donald Trump definitely won the 2020 election,0,15,1,53,3,27,2,47,3,10,1,8,1,1,1,1,1,0,1,0,1
+384,elections,Donald Trump probably won the 2020 election,0,17,1,34,2,35,2,38,2,26,2,17,1,6,1,2,1,1,1,0,1
+385,elections,Joe Biden definitely won the 2020 election,0,52,3,2,1,13,1,5,1,30,2,51,3,74,4,89,5,94,5,98,5
+386,elections,Joe Biden probably won the 2020 election,0,14,1,10,1,23,2,9,1,32,2,21,2,15,1,8,1,4,1,2,1
+387,foreign_policy,Good diplomacy is the best way to ensure peace,0,69,4,23,2,45,3,48,3,61,4,72,4,93,5,88,5,87,5,97,5
+388,foreign_policy,I somewhat favor the U.S. admitting thousands of refugees from Afghanistan into the country,1,35,2,22,2,34,2,19,1,33,2,39,2,41,3,48,3,44,3,32,2
+389,foreign_policy,I somewhat oppose the U.S. admitting thousands of refugees from Afghanistan into the country,1,26,2,37,2,32,2,33,2,36,2,30,2,13,1,23,2,12,1,7,1
+390,foreign_policy,I strongly favor the U.S. admitting thousands of refugees from Afghanistan into the country,1,20,1,4,1,7,1,2,1,12,1,11,1,38,2,21,2,40,3,61,4
+391,foreign_policy,I strongly oppose the U.S. admitting thousands of refugees from Afghanistan into the country,1,16,1,35,2,26,2,45,3,17,1,17,1,4,1,8,1,2,1,0,1
+392,foreign_policy,"In foreign policy, the U.S. should follow its own national interests even when its allies strongly disagree",0,34,2,84,5,30,2,72,4,38,2,29,2,12,1,23,2,13,1,5,1
+393,foreign_policy,"In foreign policy, the U.S. should not work with dictators or countries that do not share our democratic values, even if that sometimes makes it harder to achieve U.S. goals",0,49,3,49,3,39,2,54,3,46,3,45,3,49,3,51,3,47,3,59,3
+394,foreign_policy,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",0,64,4,15,1,68,4,27,2,61,4,67,4,85,5,75,4,85,5,94,5
+395,foreign_policy,"In foreign policy, the U.S. should work with any country to achieve U.S. goals, even if that sometimes means working closely with dictators or countries that do not share our democratic values",0,48,3,48,3,58,3,44,3,52,3,50,3,47,3,45,3,50,3,39,2
+396,foreign_policy,"In the future, it would be acceptable if another country became as militarily powerful as the U.S.",0,36,2,9,1,23,2,17,1,31,2,28,2,74,4,16,1,67,4,83,5
+397,foreign_policy,"In the future, U.S. policies should try to keep it so America is the only military superpower",0,60,4,88,5,72,4,80,5,65,4,68,4,20,1,80,5,29,2,14,1
+398,foreign_policy,Other countries generally treat the United States about as fairly as we treat them,0,46,3,10,1,24,2,15,1,37,2,24,2,80,5,63,4,77,4,87,5
+399,foreign_policy,Other countries often take unfair advantage of the United States,0,52,3,89,5,73,4,84,5,62,4,72,4,17,1,34,2,21,2,11,1
+400,foreign_policy,The best way to ensure peace is through military strength,0,29,2,75,4,53,3,50,3,37,2,25,2,6,1,11,1,11,1,2,1
+401,foreign_policy,The size of America's military should be increased a great deal ,0,12,1,28,2,15,1,24,2,10,1,10,1,1,1,11,1,3,1,3,1
+402,foreign_policy,The size of America's military should be increased somewhat,0,25,2,45,3,34,2,34,2,27,2,27,2,10,1,23,2,11,1,5,1
+403,foreign_policy,The size of America's military should be kept about as is,0,43,3,23,2,41,3,37,2,48,3,50,3,36,2,50,3,55,3,25,2
+404,foreign_policy,The size of America's military should be reduced a great deal,0,6,1,1,1,2,1,1,1,4,1,1,1,20,1,2,1,8,1,33,2
+405,foreign_policy,The size of America's military should be reduced somewhat,0,13,1,2,1,6,1,3,1,9,1,10,1,28,2,10,1,21,2,32,2
+406,foreign_policy,The U.S. has gained more than it has lost from increased trade because it has helped lower prices and increased the competitiveness of some U.S. businesses,0,41,3,21,2,69,4,15,1,38,2,31,2,69,4,25,2,86,5,20,1
+407,foreign_policy,The U.S. has lost more than it has gained from increased trade because it has cost jobs in manufacturing and other industries and lowered wages for some U.S. workers,0,56,3,75,4,27,2,83,5,60,4,65,4,26,2,71,4,11,1,77,4
+408,foreign_policy,"The U.S. is one of the greatest countries in the world, along with some others",0,52,3,29,2,61,4,51,3,58,3,62,4,33,2,59,3,69,4,23,2
+409,foreign_policy,The U.S. stands above all other countries in the world,0,23,2,69,4,32,2,33,2,26,2,18,1,2,1,19,1,11,1,1,1
+410,foreign_policy,There are other countries that are better than the U.S.,0,23,2,1,1,6,1,15,1,16,1,19,1,63,4,21,2,18,1,75,4
+411,gender_religion_society,Children with two parents are better off when a parent stays home to focus on the family,0,56,3,73,4,63,4,62,4,61,4,60,4,45,3,52,3,46,3,40,3
+412,gender_religion_society,"Children with two parents are better off when one stays at home, and it doesn't matter which one stays home",0,35,2,34,2,33,2,34,2,36,2,39,2,35,2,34,2,31,2,38,2
+413,gender_religion_society,"Children with two parents are better off when one stays at home, and it is generally better if it is the father",0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1
+414,gender_religion_society,"Children with two parents are better off when one stays at home, and it is generally better if it is the mother",0,20,1,38,2,30,2,26,2,24,2,20,1,9,1,17,1,14,1,3,1
+415,gender_religion_society,Children with two parents are just as well off when their parents work outside the home,0,43,3,27,2,35,2,37,2,37,2,39,2,54,3,48,3,52,3,59,3
+416,gender_religion_society,Cities and towns in the U.S. should be allowed to place religious symbols on public property,0,39,2,77,4,54,3,58,3,44,3,42,3,18,1,27,2,20,1,10,1
+417,gender_religion_society,Cities and towns in the U.S. should keep religious symbols off public property,0,35,2,8,1,18,1,15,1,28,2,28,2,56,3,43,3,50,3,76,4
+418,gender_religion_society,God does not favor any one country over all the others,0,70,4,60,4,73,4,66,4,61,4,66,4,71,4,78,4,75,4,78,4
+419,gender_religion_society,God favors the United States over all other countries,0,5,1,12,1,5,1,5,1,11,1,4,1,4,1,3,1,2,1,1,1
+420,gender_religion_society,Government policies should support religious values and beliefs,0,27,2,75,4,28,2,29,2,26,2,28,2,14,1,22,2,12,1,5,1
+421,gender_religion_society,I do not know someone who is transgender,1,57,3,69,4,69,4,64,4,60,4,59,3,44,3,54,3,56,3,37,2
+422,gender_religion_society,I know someone who is transgender,1,42,3,30,2,30,2,35,2,40,3,40,3,55,3,45,3,44,3,63,4
+423,gender_religion_society,I personally do not know someone who prefers that others use gender-neutral pronouns such as “they” instead of “he” or “she” when referring to them,1,73,4,87,5,86,5,85,5,75,4,78,4,52,3,73,4,69,4,47,3
+424,gender_religion_society,I personally know someone who prefers that others use gender-neutral pronouns such as “they” instead of “he” or “she” when referring to them,1,26,2,12,1,13,1,14,1,24,2,21,2,47,3,26,2,31,2,52,3
+425,gender_religion_society,I would feel somewhat comfortable using a gender-neutral pronoun to refer to someone if they asked me to do so,1,23,2,10,1,19,1,19,1,24,2,27,2,22,2,28,2,29,2,24,2
+426,gender_religion_society,I would feel somewhat uncomfortable using a gender-neutral pronoun to refer to someone if they asked me to do so,1,24,2,26,2,28,2,30,2,33,2,27,2,14,1,22,2,18,1,8,1
+427,gender_religion_society,I would feel very comfortable using a gender-neutral pronoun to refer to someone if they asked me to do so,1,27,2,4,1,11,1,9,1,17,1,20,1,52,3,33,2,44,3,61,4
+428,gender_religion_society,I would feel very uncomfortable using a gender-neutral pronoun to refer to someone if they asked me to do so,1,25,2,57,3,40,3,42,3,25,2,25,2,11,1,15,1,9,1,7,1
+429,gender_religion_society,Islam does not encourage violence more than other religions,0,44,3,11,1,25,2,19,1,32,2,42,3,74,4,52,3,67,4,84,5
+430,gender_religion_society,Islam is more likely than other religions to encourage violence among its believers,0,50,3,86,5,70,4,76,4,63,4,49,3,20,1,41,3,28,2,14,1
+431,gender_religion_society,It is essential for a person to believe in God in order to be considered good and moral,0,20,1,34,2,25,2,27,2,16,1,26,2,8,1,22,2,8,1,3,1
+432,gender_religion_society,"It is important, but not essential, for a person to believe in God in order to be considered good and moral",0,34,2,49,3,44,3,37,2,37,2,36,2,22,2,34,2,31,2,12,1
+433,gender_religion_society,It is not important at all for a person to believe in God in order to be considered good and moral,0,28,2,6,1,14,1,14,1,24,2,20,1,55,3,27,2,42,3,74,4
+434,gender_religion_society,It is not too important for a person to believe in God in order to be considered good and moral,0,16,1,10,1,15,1,21,2,22,2,17,1,13,1,13,1,18,1,11,1
+435,gender_religion_society,It would bother me a lot to regularly hear people speak a language other than English in public places in my community,0,15,1,36,2,19,1,31,2,10,1,14,1,1,1,14,1,6,1,0,1
+436,gender_religion_society,It would bother me some to regularly hear people speak a language other than English in public places in my community,0,20,1,29,2,25,2,27,2,24,2,24,2,7,1,21,2,15,1,5,1
+437,gender_religion_society,It would not bother me at all to regularly hear people speak a language other than English in public places in my community,0,38,2,12,1,25,2,17,1,33,2,30,2,72,4,38,2,49,3,78,4
+438,gender_religion_society,It would not bother me much to regularly hear people speak a language other than English in public places in my community,0,26,2,22,2,30,2,24,2,32,2,31,2,20,1,26,2,28,2,16,1
+439,gender_religion_society,Religion should be kept separate from government policies,0,72,4,24,2,70,4,71,4,73,4,70,4,84,5,76,4,87,5,94,5
+440,gender_religion_society,Society is better off if people make marriage and having children a priority,0,34,2,68,4,52,3,46,3,41,3,32,2,15,1,26,2,20,1,8,1
+441,gender_religion_society,Society is just as well off if people have priorities other than marriage and children,0,64,4,30,2,45,3,52,3,57,3,66,4,82,5,72,4,78,4,91,5
+442,gender_religion_society,Someone can be a man or a woman even if that is different from the sex they were assigned at birth,0,41,3,4,1,13,1,14,1,30,2,36,2,70,4,53,3,70,4,88,5
+443,gender_religion_society,Teachers in public schools should be allowed to lead students in Christian prayers,0,30,2,58,3,42,3,47,3,28,2,36,2,10,1,26,2,13,1,4,1
+444,gender_religion_society,Teachers in public schools should not be allowed to lead students in any kind of prayers,0,46,3,19,1,33,2,30,2,41,3,38,2,65,4,47,3,63,4,84,5
+445,gender_religion_society,The federal government should advocate Christian religious values,0,13,1,41,3,18,1,24,2,14,1,11,1,4,1,8,1,4,1,1,1
+446,gender_religion_society,The federal government should advocate for moral values that are shared by people of many faiths,0,63,4,40,3,60,4,55,3,53,3,60,4,72,4,67,4,77,4,86,5
+447,gender_religion_society,The federal government should declare the United States a Christian nation,0,15,1,37,2,23,2,29,2,16,1,19,1,4,1,5,1,4,1,0,1
+448,gender_religion_society,The federal government should enforce separation of church and state,0,54,3,36,2,49,3,41,3,51,3,42,3,68,4,53,3,69,4,88,5
+449,gender_religion_society,The federal government should never declare any particular religion as the official religion of the United States,0,69,4,47,3,62,4,55,3,62,4,58,3,81,5,75,4,85,5,96,5
+450,gender_religion_society,The federal government should stop enforcing separation of church and state,0,19,1,37,2,20,1,30,2,19,1,22,2,9,1,18,1,9,1,3,1
+451,gender_religion_society,The obstacles that once made it harder for women than men to get ahead are now largely gone,0,46,3,87,5,79,4,63,4,70,4,56,3,17,1,17,1,23,2,11,1
+452,gender_religion_society,The U.S. Constitution was inspired by God and reflects God’s vision for America,0,18,1,43,3,25,2,30,2,18,1,20,1,6,1,9,1,6,1,2,1
+453,gender_religion_society,"The U.S. Constitution was written by human beings and reflects their vision for America, not necessarily God’s vision",0,67,4,42,3,58,3,56,3,62,4,59,3,80,5,76,4,79,4,92,5
+454,gender_religion_society,There are still significant obstacles that make it harder for women to get ahead than men,0,53,3,12,1,21,2,36,2,30,2,42,3,82,5,81,5,76,4,88,5
+455,gender_religion_society,Whether someone is a man or a woman is determined by the sex they were assigned at birth,0,56,3,94,5,85,5,84,5,68,4,62,4,28,2,43,3,28,2,10,1
+456,government_social_safety_net,Adequate income in retirement is not the responsibility of the federal government to provide,0,41,3,72,4,72,4,55,3,56,3,29,2,27,2,26,2,30,2,18,1
+457,government_social_safety_net,Adequate income in retirement is responsibility of the federal government to provide for all Americans,0,58,3,26,2,26,2,43,3,43,3,70,4,71,4,73,4,67,4,81,5
+458,government_social_safety_net,An adequate standard of living is a responsibility of the federal government to provide for all Americans,0,56,3,15,1,20,1,36,2,35,2,64,4,78,4,74,4,72,4,92,5
+459,government_social_safety_net,An adequate standard of living is not the responsibility of the federal government to provide,0,43,3,85,5,80,5,64,4,65,4,34,2,20,1,25,2,26,2,8,1
+460,government_social_safety_net,"Government aid to the poor does more good than harm, because people can’t get out of poverty until their basic needs are met",0,53,3,15,1,20,1,20,1,24,2,65,4,83,5,71,4,79,4,94,5
+461,government_social_safety_net,"Government aid to the poor does more harm than good, by making people too dependent on government assistance",0,45,3,84,5,78,4,78,4,74,4,33,2,15,1,28,2,19,1,6,1
+462,government_social_safety_net,Government is almost always wasteful and inefficient,0,53,3,90,5,72,4,87,5,62,4,48,3,48,3,34,2,21,2,29,2
+463,government_social_safety_net,Government is doing too many things better left to businesses and individuals,0,44,3,88,5,87,5,77,4,67,4,43,3,23,2,18,1,9,1,2,1
+464,government_social_safety_net,Government often does a better job than people give it credit for,0,44,3,10,1,26,2,10,1,37,2,48,3,48,3,63,4,75,4,69,4
+465,government_social_safety_net,Government should do more to solve problems,0,55,3,12,1,13,1,22,2,32,2,57,3,75,4,80,5,88,5,98,5
+466,government_social_safety_net,Health insurance should be provided through a single national health insurance system run by the government,0,32,2,3,1,12,1,11,1,17,1,32,2,57,3,41,3,46,3,75,4
+467,government_social_safety_net,Health insurance should continue to be provided through a mix of private insurance companies and government programs,0,29,2,9,1,12,1,19,1,20,1,40,3,30,2,46,3,41,3,22,2
+468,government_social_safety_net,I am angry with the federal government,1,17,1,52,3,26,2,41,3,21,2,8,1,7,1,4,1,1,1,5,1
+469,government_social_safety_net,I am basically content with the federal government,1,29,2,3,1,15,1,8,1,27,2,35,2,29,2,48,3,52,3,32,2
+470,government_social_safety_net,I am frustrated with the federal government,1,52,3,44,3,59,3,51,3,51,3,55,3,61,4,46,3,45,3,63,4
+471,government_social_safety_net,I would rather eliminate most current government services,1,12,1,38,2,19,1,26,2,21,2,6,1,5,1,2,1,2,1,0,1
+472,government_social_safety_net,I would rather greatly expand on current government services,1,21,2,2,1,3,1,5,1,9,1,17,1,38,2,34,2,28,2,63,4
+473,government_social_safety_net,I would rather have a bigger government providing more services,1,50,3,6,1,18,1,14,1,26,2,50,3,73,4,79,4,83,5,97,5
+474,government_social_safety_net,I would rather have a smaller government providing fewer services,1,48,3,93,5,81,5,85,5,73,4,46,3,23,2,19,1,15,1,2,1
+475,government_social_safety_net,I would rather modestly expand on current government services,1,29,2,5,1,14,1,8,1,17,1,33,2,35,2,45,3,55,3,33,2
+476,government_social_safety_net,I would rather modestly reduce current government services,1,35,2,55,3,61,4,59,3,51,3,40,3,18,1,17,1,12,1,2,1
+477,government_social_safety_net,It is not the responsibility of the federal government to make sure all Americans have health care coverage,0,37,2,87,5,74,4,70,4,61,4,26,2,11,1,11,1,11,1,3,1
+478,government_social_safety_net,It is the responsibility of the federal government to make sure all Americans have health care coverage,0,62,4,12,1,26,2,30,2,38,2,73,4,88,5,89,5,88,5,97,5
+479,government_social_safety_net,It would be too risky to give U.S. presidents more power to deal directly with many of the country’s problems,0,74,4,87,5,82,5,75,4,81,5,67,4,77,4,65,4,74,4,80,5
+480,government_social_safety_net,It’s not the government’s job to protect people from themselves,0,38,2,70,4,55,3,62,4,65,4,22,2,29,2,19,1,17,1,15,1
+481,government_social_safety_net,Many of the country’s problems could be dealt with more effectively if U.S. presidents didn’t have to worry so much about Congress or the courts,0,23,2,11,1,16,1,23,2,17,1,28,2,20,1,32,2,24,2,18,1
+482,government_social_safety_net,Sometimes laws to protect people from themselves are necessary,0,60,4,28,2,42,3,36,2,34,2,76,4,69,4,79,4,81,5,84,5
+483,government_social_safety_net,The government is providing about the right amount of assistance to people in need,0,29,2,21,2,28,2,23,2,33,2,36,2,24,2,34,2,36,2,9,1
+484,government_social_safety_net,The government should continue programs like Medicare and Medicaid for seniors and the very poor,0,30,2,67,4,61,4,55,3,43,3,22,2,8,1,11,1,10,1,3,1
+485,government_social_safety_net,The government should not be involved in providing health insurance at all,0,7,1,20,1,12,1,14,1,17,1,3,1,2,1,0,1,1,1,0,1
+486,government_social_safety_net,The government should provide less assistance to people in need,0,32,2,74,4,65,4,62,4,52,3,24,2,7,1,11,1,5,1,3,1
+487,government_social_safety_net,The government should provide more assistance to people in need,0,38,2,5,1,6,1,15,1,14,1,40,3,67,4,54,3,58,3,88,5
+488,government_social_safety_net,You can never trust the government in Washington to do what is right ,0,14,1,30,2,17,1,31,2,22,2,11,1,9,1,5,1,1,1,3,1
+489,government_social_safety_net,You can trust the government in Washington to do what is right just about always,0,2,1,0,1,2,1,0,1,2,1,2,1,0,1,5,1,5,1,0,1
+490,government_social_safety_net,You can trust the government in Washington to do what is right most of the time,0,22,2,1,1,7,1,7,1,21,2,31,2,20,1,35,2,36,2,22,2
+491,government_social_safety_net,You can trust the government in Washington to do what is right only some of the time,0,61,4,67,4,74,4,62,4,56,3,56,3,70,4,53,3,56,3,74,4
+492,political_engagement,Compromise in politics is really just selling out on what you believe in,0,26,5,53,5,26,5,46,5,31,5,23,5,21,5,15,5,9,5,18,5
+493,political_engagement,"Compromise is how things get done in politics, even though it sometimes means sacrificing your beliefs",0,71,5,45,5,71,5,51,5,68,5,73,5,76,5,83,5,89,5,80,5
+494,political_engagement,I discuss government and politics with others a few times a month,1,25,5,18,5,27,5,26,5,30,5,25,5,28,5,26,5,25,5,24,5
+495,political_engagement,I discuss government and politics with others a few times a week,1,29,5,40,5,32,5,32,5,25,5,21,5,28,5,25,5,29,5,41,5
+496,political_engagement,I discuss government and politics with others less than a few times a month,1,32,5,17,5,26,5,27,5,37,5,48,5,33,5,38,5,31,5,14,5
+497,political_engagement,I discuss government and politics with others nearly every day,1,13,5,25,5,15,5,16,5,8,5,6,5,10,5,10,5,16,5,21,5
+498,political_engagement,I follow what’s going on in government and public affairs most of the time,1,34,5,55,5,42,5,35,5,21,5,19,5,21,5,35,5,41,5,44,5
+499,political_engagement,I follow what’s going on in government and public affairs some of the time,1,40,5,32,5,39,5,42,5,40,5,38,5,43,5,42,5,41,5,40,5
+500,political_engagement,I hardly follow what’s going on in government and public affairs at all,1,8,5,4,5,3,5,6,5,11,5,15,5,10,5,5,5,4,5,3,5
+501,political_engagement,I have attended a political rally or campaign event in person (including in a vehicle) in the past 6 months,1,5,5,11,5,9,5,6,5,6,5,3,5,3,5,3,5,3,5,5,5
+502,political_engagement,I have attended a VIRTUAL political rally or ONLINE campaign event in the past 6 months,1,9,5,16,5,8,5,11,5,6,5,7,5,4,5,7,5,11,5,12,5
+503,political_engagement,I have contributed money to a candidate running for public office or to a group working to elect a candidate in the past 6 months,1,18,5,31,5,20,5,16,5,11,5,8,5,9,5,19,5,25,5,35,5
+504,political_engagement,"I have displayed a poster, sign, or bumper-sticker, or wore a piece of clothing or a button in support of a political in the past 6 months",1,19,5,34,5,23,5,28,5,12,5,12,5,10,5,17,5,19,5,23,5
+505,political_engagement,I have not attended a political rally or campaign event in person (including in a vehicle) in the past 6 months,1,94,5,89,5,91,5,93,5,94,5,97,5,97,5,96,5,96,5,95,5
+506,political_engagement,I have not attended a VIRTUAL political rally or ONLINE campaign event in the past 6 months,1,91,5,84,5,92,5,88,5,94,5,93,5,96,5,93,5,89,5,87,5
+507,political_engagement,I have not contributed money to a candidate running for public office or to a group working to elect a candidate in the past 6 months,1,81,5,69,5,80,5,84,5,88,5,91,5,91,5,81,5,74,5,65,5
+508,political_engagement,"I have not displayed a poster, sign, or bumper-sticker, or wore a piece of clothing or a button in support of a political in the past 6 months",1,80,5,66,5,77,5,72,5,86,5,88,5,89,5,83,5,81,5,76,5
+509,political_engagement,I have not shown my support for a political campaign or candidate on social media in the past 6 months,1,70,5,57,5,67,5,59,5,82,5,82,5,78,5,69,5,68,5,53,5
+510,political_engagement,"I have not worked or volunteered for a political party, candidate or campaign in the past 6 months",1,94,5,96,5,97,5,97,5,95,5,95,5,97,5,95,5,93,5,90,5
+511,political_engagement,I have shown my support for a political campaign or candidate on social media in the past 6 months,1,30,5,43,5,33,5,41,5,17,5,17,5,22,5,31,5,32,5,47,5
+512,political_engagement,"I have worked or volunteered for a political party, candidate or campaign in the past 6 months",1,5,5,4,5,3,5,3,5,5,5,4,5,3,5,5,5,7,5,10,5
+513,political_engagement,I only follow what’s going on in government and public affairs now and then ,1,18,5,9,5,15,5,16,5,28,5,27,5,26,5,17,5,13,5,12,5
+514,political_engagement,"When I talk about politics with people who I disagree with, I generally find it to be interesting and informative",1,39,5,33,5,41,5,32,5,43,5,48,5,39,5,42,5,36,5,21,5
+515,political_engagement,"When I talk about politics with people who I disagree with, I generally find it to be stressful and frustrating",1,59,5,65,5,57,5,66,5,54,5,48,5,60,5,56,5,62,5,78,5
+516,political_engagement,"When I was growing up, my close family did not talk at all about government and politics at home",1,20,5,16,5,22,5,22,5,21,5,24,5,23,5,20,5,19,5,15,5
+517,political_engagement,"When I was growing up, my close family did not talk much about government and politics at home",1,36,5,33,5,37,5,36,5,40,5,41,5,32,5,37,5,36,5,30,5
+518,political_engagement,"When I was growing up, my close family talked a lot about government and politics at home",1,9,5,11,5,9,5,7,5,7,5,7,5,11,5,9,5,11,5,15,5
+519,political_engagement,"When I was growing up, my close family talked some about government and politics at home",1,35,5,39,5,32,5,35,5,32,5,28,5,34,5,34,5,35,5,40,5
+520,race_ethnicity_immigration,A little needs to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds,0,34,2,39,2,56,3,48,3,57,3,43,3,12,1,18,1,24,2,4,1
+521,race_ethnicity_immigration,A lot more needs to be done to ensure racial equality and most U.S. laws and major institutions need to be rebuilt because they are fundamentally biased against some racial and ethnic groups,0,25,2,1,1,3,1,6,1,7,1,21,2,63,4,38,2,29,2,71,4
+522,race_ethnicity_immigration,"A lot more needs to be done to ensure racial equality and while there are many inequities in U.S. laws and institutions, necessary changes can be made by working within the current system",0,24,2,3,1,10,1,15,1,15,1,30,2,23,2,39,2,43,3,24,2
+523,race_ethnicity_immigration,A lot needs to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds,0,50,3,4,1,13,1,22,2,22,2,51,3,86,5,78,4,73,4,96,5
+524,race_ethnicity_immigration,America’s openness to people from all over the world is essential to who we are as a nation,0,66,4,28,2,33,2,23,2,75,4,68,4,91,5,82,5,89,5,97,5
+525,race_ethnicity_immigration,I somewhat oppose the Black Lives Matter movement,1,14,1,9,1,21,2,19,1,31,2,22,2,6,1,7,1,5,1,2,1
+526,race_ethnicity_immigration,I somewhat support the Black Lives Matter movement,1,27,2,4,1,9,1,7,1,25,2,41,3,38,2,40,3,36,2,22,2
+527,race_ethnicity_immigration,I strongly oppose the Black Lives Matter movement,1,28,2,84,5,64,4,69,4,36,2,16,1,3,1,6,1,2,1,1,1
+528,race_ethnicity_immigration,I strongly support the Black Lives Matter movement,1,28,2,2,1,2,1,2,1,5,1,15,1,48,3,44,3,55,3,75,4
+529,race_ethnicity_immigration,"If America is too open to people from all over the world, we risk losing our identity as a nation",0,32,2,71,4,64,4,76,4,23,2,29,2,8,1,16,1,8,1,2,1
+530,race_ethnicity_immigration,Nothing at all needs to be done to ensure equal rights for all Americans regardless of their racial or ethnic backgrounds,0,15,1,56,3,28,2,30,2,21,2,4,1,2,1,3,1,3,1,0,1
+531,race_ethnicity_immigration,People who have immigrated to the U.S ILLEGALLY generally make the communities they live in a little better,0,36,2,13,1,18,1,16,1,30,2,35,2,53,3,47,3,53,3,57,3
+532,race_ethnicity_immigration,People who have immigrated to the U.S ILLEGALLY generally make the communities they live in a little worse,0,31,2,35,2,44,3,37,2,45,3,39,2,18,1,25,2,23,2,10,1
+533,race_ethnicity_immigration,People who have immigrated to the U.S ILLEGALLY generally make the communities they live in a lot better,0,11,1,4,1,7,1,4,1,6,1,8,1,23,2,13,1,16,1,29,2
+534,race_ethnicity_immigration,People who have immigrated to the U.S ILLEGALLY generally make the communities they live in a lot worse,0,17,1,46,3,27,2,41,3,16,1,13,1,3,1,9,1,3,1,0,1
+535,race_ethnicity_immigration,The country has made a little of progress over the last 50 years toward ensuring equal rights for all Americans regardless of their racial or ethnic backgrounds,0,45,3,8,1,13,1,30,2,31,2,46,3,69,4,66,4,59,3,72,4
+536,race_ethnicity_immigration,The country has made a lot of progress over the last 50 years toward ensuring equal rights for all Americans regardless of their racial or ethnic backgrounds,0,48,3,89,5,83,5,63,4,60,4,45,3,20,1,26,2,33,2,22,2
+537,race_ethnicity_immigration,The country has made no progress at all over the last 50 years toward ensuring equal rights for all Americans regardless of their racial or ethnic backgrounds,0,7,1,3,1,3,1,6,1,9,1,9,1,10,1,8,1,6,1,6,1
+538,race_ethnicity_immigration,"The fact that the U.S. population is made up of people of many different races, ethnicities and religions doesn’t make much difference",0,25,2,40,3,34,2,38,2,35,2,26,2,16,1,15,1,13,1,5,1
+539,race_ethnicity_immigration,"The fact that the U.S. population is made up of people of many different races, ethnicities and religions strengthens American democracy",0,64,4,40,3,52,3,36,2,52,3,61,4,82,5,79,4,84,5,93,5
+540,race_ethnicity_immigration,"The fact that the U.S. population is made up of people of many different races, ethnicities and religions weakens American democracy",0,10,1,19,1,14,1,25,2,12,1,12,1,2,1,5,1,2,1,1,1
+541,race_ethnicity_immigration,The number of LEGAL immigrants the U.S. admits should decrease a little,0,13,1,16,1,17,1,18,1,17,1,18,1,7,1,11,1,8,1,3,1
+542,race_ethnicity_immigration,The number of LEGAL immigrants the U.S. admits should decrease a lot,0,13,1,29,2,20,1,31,2,10,1,13,1,1,1,8,1,2,1,1,1
+543,race_ethnicity_immigration,The number of LEGAL immigrants the U.S. admits should increase a little,0,17,1,7,1,11,1,6,1,16,1,11,1,29,2,18,1,28,2,33,2
+544,race_ethnicity_immigration,The number of LEGAL immigrants the U.S. admits should increase a lot,0,11,1,3,1,4,1,3,1,8,1,5,1,25,2,10,1,16,1,30,2
+545,race_ethnicity_immigration,The number of LEGAL immigrants the U.S. admits should stay about the same,0,44,3,43,3,46,3,41,3,48,3,50,3,35,2,48,3,43,3,31,2
+546,race_ethnicity_immigration,The priority for dealing with ILLEGAL immigration in the U.S. should be better border security and stronger enforcement of our immigration laws,0,29,2,75,4,58,3,62,4,32,2,23,2,4,1,8,1,8,1,2,1
+547,race_ethnicity_immigration,The priority for dealing with ILLEGAL immigration in the U.S. should be creating a way for immigrants already here illegally to become citizens if they meet certain requirements,0,29,2,4,1,10,1,7,1,21,2,25,2,62,4,34,2,42,3,67,4
+548,race_ethnicity_immigration,There is a lot of discrimination against Asian people in our society today,0,27,2,7,1,11,1,14,1,17,1,25,2,38,2,41,3,36,2,47,3
+549,race_ethnicity_immigration,There is a lot of discrimination against Black people in our society today,0,46,3,4,1,10,1,12,1,23,2,43,3,76,4,72,4,77,4,88,5
+550,race_ethnicity_immigration,There is a lot of discrimination against Hispanic people in our society today,0,30,2,4,1,6,1,10,1,16,1,31,2,48,3,46,3,43,3,60,4
+551,race_ethnicity_immigration,There is a lot of discrimination against White people in our society today,0,14,1,37,2,21,2,32,2,18,1,12,1,4,1,4,1,4,1,1,1
+552,race_ethnicity_immigration,There is no discrimination at all against Asian people in our society today,0,7,1,13,1,13,1,11,1,8,1,7,1,2,1,4,1,3,1,2,1
+553,race_ethnicity_immigration,There is no discrimination at all against Black people in our society today,0,5,1,14,1,9,1,10,1,6,1,4,1,1,1,2,1,0,1,2,1
+554,race_ethnicity_immigration,There is no discrimination at all against Hispanic people in our society today,0,5,1,12,1,11,1,11,1,5,1,5,1,1,1,2,1,2,1,2,1
+555,race_ethnicity_immigration,There is no discrimination at all against White people in our society today,0,29,2,6,1,12,1,9,1,16,1,23,2,51,3,40,3,46,3,64,4
+556,race_ethnicity_immigration,There is some discrimination against Asian people in our society today,0,44,3,37,2,38,2,42,3,47,3,45,3,46,3,43,3,48,3,42,3
+557,race_ethnicity_immigration,There is some discrimination against Black people in our society today,0,33,2,41,3,48,3,45,3,49,3,43,3,19,1,22,2,19,1,10,1
+558,race_ethnicity_immigration,There is some discrimination against Hispanic people in our society today,0,46,3,40,3,44,3,50,3,51,3,53,3,42,3,46,3,47,3,35,2
+559,race_ethnicity_immigration,There is some discrimination against White people in our society today,0,26,2,39,2,34,2,41,3,37,2,32,2,16,1,19,1,8,1,3,1
+560,race_ethnicity_immigration,There only a little discrimination against Asian people in our society today,0,22,2,41,3,37,2,33,2,28,2,21,2,13,1,10,1,12,1,9,1
+561,race_ethnicity_immigration,There only a little discrimination against Black people in our society today,0,14,1,40,3,31,2,32,2,20,1,9,1,3,1,3,1,3,1,0,1
+562,race_ethnicity_immigration,There only a little discrimination against Hispanic people in our society today,0,18,1,42,3,37,2,29,2,26,2,10,1,8,1,5,1,8,1,3,1
+563,race_ethnicity_immigration,There only a little discrimination against White people in our society today,0,30,2,18,1,31,2,18,1,28,2,31,2,29,2,36,2,41,3,32,2
+564,race_ethnicity_immigration,"There should be a way for undocumented immigrants who are now living in the U.S. to stay in the country legally, if certain requirements are met",0,69,4,30,2,52,3,30,2,63,4,74,4,90,5,86,5,93,5,95,5
+565,race_ethnicity_immigration,Undocumented immigrants who are now living in the U.S. should not be allowed to stay in the country legally,0,30,2,69,4,47,3,69,4,36,2,25,2,8,1,13,1,7,1,5,1
+566,race_ethnicity_immigration,White people benefit a fair amount from advantages in society that Black people do not have,0,27,2,5,1,18,1,16,1,25,2,38,2,33,2,33,2,37,2,20,1
+567,race_ethnicity_immigration,White people benefit a great deal from advantages in society that Black people do not have,0,31,2,0,1,3,1,4,1,7,1,21,2,58,3,55,3,54,3,76,4
+568,race_ethnicity_immigration,White people do not benefit at all from advantages in society that Black people do not have,0,17,1,57,3,36,2,38,2,24,2,9,1,1,1,2,1,1,1,0,1
+569,race_ethnicity_immigration,White people do not benefit too much from advantages in society that Black people do not have,0,24,2,38,2,42,3,40,3,43,3,30,2,7,1,8,1,8,1,3,1
+570,technology,"As long as major technology companies follow the rules, the government should allow these companies to grow as large as they want, even if this means there is less competition",0,42,3,39,2,50,3,37,2,53,3,43,3,43,3,44,3,42,3,26,2
+571,technology,"Even if major technology companies follow the rules, the government should NOT allow these companies to grow beyond a certain size, because it hurts competition",0,55,3,56,3,46,3,63,4,45,3,54,3,53,3,53,3,57,3,73,4
+572,technology,"I have heard about cryptocurrency such as Bitcoin or Ether and have invested, traded or used cryptourrencies before",1,16,1,13,1,16,1,12,1,19,1,15,1,19,1,11,1,14,1,21,2
+573,technology,I have heard about cryptocurrency such as Bitcoin or Ether and have not invested,1,70,4,78,4,73,4,70,4,67,4,64,4,73,4,71,4,76,4,75,4
+574,technology,I have heard about cryptocurrency such as Bitcoin or Ether at least a little,1,86,5,91,5,90,5,83,5,87,5,80,5,92,5,82,5,90,5,97,5
+575,technology,I have not heard about cryptocurrency such as Bitcoin or Ether ,1,13,1,9,1,10,1,17,1,13,1,20,1,8,1,18,1,10,1,3,1
+576,technology,"If the government were to take steps to reduce the size of major technology companies, do you think this would mostly be a BAD thing",0,29,2,20,1,35,2,26,2,35,2,35,2,27,2,31,2,28,2,12,1
+577,technology,"If the government were to take steps to reduce the size of major technology companies, do you think this would mostly be a GOOD thing",0,37,2,50,3,36,2,39,2,27,2,25,2,40,3,35,2,41,3,62,4
+578,technology,"If the government were to take steps to reduce the size of major technology companies, do you think this would not make much of a difference",0,31,2,27,2,25,2,34,2,37,2,38,2,31,2,30,2,30,2,22,2
+579,technology,Major technology companies have about the right amound of power and influence in today’s economy,0,25,2,9,1,22,2,17,1,35,2,26,2,28,2,27,2,32,2,11,1
+580,technology,Major technology companies have not enough power and influence in today’s economy,0,4,1,0,1,5,1,4,1,5,1,7,1,3,1,4,1,4,1,2,1
+581,technology,Major technology companies have too much power and influence in today’s economy,0,68,4,89,5,67,4,78,4,59,3,65,4,65,4,63,4,64,4,86,5
+582,technology,Major technology companies should be regulated less than they are now,0,9,1,13,1,10,1,9,1,17,1,8,1,7,1,7,1,4,1,2,1
+583,technology,Major technology companies should be regulated more than they are now,0,56,3,61,4,59,3,64,4,40,3,47,3,59,3,55,3,58,3,86,5
+584,technology,Major technology companies should be regulated the same as they are now,0,32,2,23,2,28,2,26,2,41,3,39,2,32,2,34,2,37,2,10,1
+585,views_of_society,A decline in the share of Americans belonging to an organized religion is neither good nor bad for society,0,35,2,14,1,20,1,31,2,34,2,40,3,37,2,41,3,46,3,38,2
+586,views_of_society,A decline in the share of Americans belonging to an organized religion is somewhat bad for society,0,24,2,30,2,37,2,33,2,28,2,26,2,16,1,21,2,16,1,8,1
+587,views_of_society,A decline in the share of Americans belonging to an organized religion is somewhat good for society,0,11,1,2,1,5,1,5,1,11,1,11,1,16,1,12,1,17,1,18,1
+588,views_of_society,A decline in the share of Americans belonging to an organized religion is very bad for society,0,18,1,53,3,33,2,28,2,20,1,15,1,5,1,12,1,4,1,2,1
+589,views_of_society,A decline in the share of Americans belonging to an organized religion is very good for society,0,11,1,2,1,4,1,3,1,6,1,7,1,23,2,13,1,15,1,33,2
+590,views_of_society,An increase in the number of guns in the U.S. is neither good nor bad for society,0,26,2,36,2,40,3,36,2,39,2,33,2,22,2,11,1,11,1,6,1
+591,views_of_society,An increase in the number of guns in the U.S. is somewhat bad for society,0,20,1,7,1,14,1,12,1,18,1,25,2,26,2,25,2,23,2,22,2
+592,views_of_society,An increase in the number of guns in the U.S. is somewhat good for society,0,11,1,23,2,18,1,20,1,20,1,10,1,4,1,4,1,4,1,1,1
+593,views_of_society,An increase in the number of guns in the U.S. is very bad for society,0,33,2,3,1,14,1,7,1,12,1,27,2,44,3,56,3,60,4,69,4
+594,views_of_society,An increase in the number of guns in the U.S. is very good for society,0,9,1,30,2,12,1,25,2,10,1,5,1,2,1,2,1,1,1,2,1
+595,views_of_society,Banks and other financial institutions have a negative effect on the way things are going in the country these days,0,48,3,44,3,36,2,60,4,41,3,44,3,56,3,47,3,46,3,78,4
+596,views_of_society,Banks and other financial institutions have a positive effect on the way things are going in the country these days,0,49,3,50,3,59,3,37,2,58,3,53,3,42,3,50,3,53,3,21,2
+597,views_of_society,Churches and religious organizations have a negative effect on the way things are going in the country these days,0,35,2,12,1,19,1,27,2,28,2,31,2,58,3,36,2,42,3,75,4
+598,views_of_society,Churches and religious organizations have a positive effect on the way things are going in the country these days,0,62,4,85,5,78,4,70,4,71,4,66,4,38,2,61,4,54,3,24,2
+599,views_of_society,Climate change is a moderately big problem in the country today ,0,23,2,14,1,27,2,28,2,29,2,32,2,22,2,22,2,20,1,7,1
+600,views_of_society,Climate change is a small problem in the country today ,0,18,1,36,2,40,3,37,2,33,2,15,1,4,1,4,1,4,1,1,1
+601,views_of_society,Climate change is a very big problem in the country today ,0,47,3,4,1,14,1,14,1,25,2,49,3,74,4,73,4,74,4,91,5
+602,views_of_society,Climate change is not a problem at all in the country today ,0,11,1,46,3,18,1,20,1,12,1,4,1,1,1,0,1,1,1,0,1
+603,views_of_society,Climate change is the biggest problem in the country today,0,16,1,1,1,5,1,3,1,8,1,14,1,28,2,21,2,31,2,35,2
+604,views_of_society,Colleges and universities have a negative effect on the way things are going in the country these days,0,41,3,86,5,63,4,70,4,55,3,32,2,30,2,20,1,11,1,20,1
+605,views_of_society,Colleges and universities have a positive effect on the way things are going in the country these days,0,57,3,13,1,35,2,28,2,44,3,66,4,66,4,78,4,86,5,79,4
+606,views_of_society,Economic inequality is a moderately big problem in the country today ,0,31,2,18,1,35,2,35,2,39,2,43,3,24,2,30,2,33,2,12,1
+607,views_of_society,Economic inequality is a small problem in the country today ,0,18,1,47,3,38,2,30,2,33,2,10,1,4,1,4,1,4,1,2,1
+608,views_of_society,Economic inequality is a very big problem in the country today ,0,44,3,7,1,12,1,27,2,18,1,45,3,71,4,66,4,62,4,86,5
+609,views_of_society,Economic inequality is not a problem at all in the country today ,0,6,1,28,2,14,1,7,1,9,1,1,1,0,1,0,1,0,1,0,1
+610,views_of_society,Economic inequality is the biggest problem in the country today,0,16,1,1,1,3,1,6,1,5,1,16,1,30,2,21,2,24,2,39,2
+611,views_of_society,Everyone has it in their own power to succeed,0,72,4,91,5,92,5,83,5,81,5,74,4,54,3,68,4,67,4,37,2
+612,views_of_society,Experts who study a subject for many years are usually BETTER at making good policy decisions about that subject than other people,0,61,4,30,2,74,4,31,2,54,3,61,4,75,4,70,4,80,5,85,5
+613,views_of_society,Experts who study a subject for many years are usually NEITHER BETTER NOR WORSE at making good policy decisions about that subject than other people,0,32,2,56,3,24,2,57,3,37,2,31,2,23,2,28,2,16,1,13,1
+614,views_of_society,Experts who study a subject for many years are usually WORSE at making good policy decisions about that subject than other people,0,5,1,13,1,1,1,11,1,9,1,7,1,1,1,1,1,3,1,0,1
+615,views_of_society,Good-paying jobs requiring a college degree more often than they used to is neither good nor bad for society,0,30,2,41,3,32,2,31,2,31,2,31,2,30,2,26,2,27,2,21,2
+616,views_of_society,Good-paying jobs requiring a college degree more often than they used to is somewhat bad for society,0,30,2,28,2,28,2,27,2,25,2,30,2,33,2,31,2,27,2,43,3
+617,views_of_society,Good-paying jobs requiring a college degree more often than they used to is somewhat good for society,0,22,2,16,1,26,2,22,2,23,2,22,2,20,1,21,2,29,2,17,1
+618,views_of_society,Good-paying jobs requiring a college degree more often than they used to is very bad for society,0,9,1,9,1,5,1,15,1,10,1,8,1,10,1,8,1,5,1,12,1
+619,views_of_society,Good-paying jobs requiring a college degree more often than they used to is very good for society,0,8,1,5,1,7,1,5,1,8,1,8,1,5,1,12,1,10,1,6,1
+620,views_of_society,Greater social acceptance of people who are transgender is neither good nor bad for society,0,29,2,23,2,30,2,33,2,39,2,34,2,20,1,36,2,22,2,9,1
+621,views_of_society,Greater social acceptance of people who are transgender is somewhat bad for society,0,14,1,24,2,24,2,21,2,17,1,17,1,5,1,8,1,6,1,1,1
+622,views_of_society,Greater social acceptance of people who are transgender is somewhat good for society,0,15,1,2,1,9,1,7,1,15,1,19,1,18,1,21,2,23,2,13,1
+623,views_of_society,Greater social acceptance of people who are transgender is very bad for society,0,18,1,49,3,32,2,36,2,20,1,17,1,3,1,6,1,5,1,1,1
+624,views_of_society,Greater social acceptance of people who are transgender is very good for society,0,23,2,1,1,2,1,2,1,9,1,11,1,52,3,27,2,43,3,75,4
+625,views_of_society,I am dissatisfied with the way things are going in this country today,1,74,4,97,5,86,5,95,5,78,4,70,4,73,4,63,4,49,3,68,4
+626,views_of_society,I am satisfied with the way things are going in this country today,1,26,2,3,1,14,1,4,1,22,2,29,2,26,2,36,2,51,3,32,2
+627,views_of_society,I think DEMOCRATS in this country are not at all comfortable to freely and openly express their political views,1,4,1,7,1,4,1,8,1,5,1,5,1,1,1,3,1,2,1,1,1
+628,views_of_society,I think DEMOCRATS in this country are not too comfortable to freely and openly express their political views,1,10,1,6,1,5,1,7,1,11,1,14,1,11,1,13,1,11,1,11,1
+629,views_of_society,I think DEMOCRATS in this country are somewhat comfortable to freely and openly express their political views,1,36,2,10,1,21,2,21,2,33,2,39,2,47,3,46,3,47,3,50,3
+630,views_of_society,I think DEMOCRATS in this country are very comfortable to freely and openly express their political views,1,48,3,77,4,68,4,63,4,50,3,39,2,38,2,36,2,37,2,37,2
+631,views_of_society,I think REPUBLICANS in this country are not at all comfortable to freely and openly express their political views,1,11,1,27,2,16,1,18,1,15,1,7,1,3,1,9,1,5,1,4,1
+632,views_of_society,I think REPUBLICANS in this country are not too comfortable to freely and openly express their political views,1,21,2,37,2,37,2,30,2,31,2,20,1,12,1,13,1,11,1,7,1
+633,views_of_society,I think REPUBLICANS in this country are somewhat comfortable to freely and openly express their political views,1,30,2,22,2,32,2,32,2,35,2,38,2,31,2,27,2,29,2,25,2
+634,views_of_society,I think REPUBLICANS in this country are very comfortable to freely and openly express their political views,1,35,2,14,1,13,1,20,1,18,1,32,2,51,3,51,3,53,3,63,4
+635,views_of_society,Illegal immigration is a moderately big problem in the country today ,0,29,2,12,1,27,2,17,1,36,2,35,2,23,2,39,2,35,2,19,1
+636,views_of_society,Illegal immigration is a small problem in the country today ,0,23,2,3,1,5,1,3,1,20,1,17,1,45,3,24,2,41,3,57,3
+637,views_of_society,Illegal immigration is a very big problem in the country today ,0,43,3,85,5,66,4,80,5,42,3,44,3,12,1,33,2,16,1,7,1
+638,views_of_society,Illegal immigration is not a problem at all in the country today ,0,5,1,0,1,1,1,0,1,2,1,4,1,19,1,4,1,7,1,17,1
+639,views_of_society,Illegal immigration is the biggest problem in the country today,0,19,1,55,3,37,2,47,3,19,1,14,1,1,1,4,1,2,1,0,1
+640,views_of_society,Increased public attention to the history of slavery and racism in America is neither good nor bad for society,0,21,2,24,2,29,2,31,2,31,2,27,2,9,1,16,1,11,1,3,1
+641,views_of_society,Increased public attention to the history of slavery and racism in America is somewhat bad for society,0,14,1,28,2,31,2,28,2,21,2,15,1,2,1,4,1,5,1,1,1
+642,views_of_society,Increased public attention to the history of slavery and racism in America is somewhat good for society,0,23,2,9,1,16,1,10,1,26,2,31,2,30,2,29,2,28,2,13,1
+643,views_of_society,Increased public attention to the history of slavery and racism in America is very bad for society,0,11,1,35,2,18,1,26,2,14,1,7,1,2,1,3,1,2,1,0,1
+644,views_of_society,Increased public attention to the history of slavery and racism in America is very good for society,0,30,2,3,1,5,1,4,1,8,1,19,1,56,3,45,3,54,3,82,5
+645,views_of_society,K-12 public schools have a negative effect on the way things are going in the country these days,0,38,2,75,4,53,3,66,4,51,3,28,2,31,2,23,2,10,1,14,1
+646,views_of_society,K-12 public schools have a positive effect on the way things are going in the country these days,0,61,4,23,2,45,3,34,2,49,3,71,4,67,4,77,4,87,5,85,5
+647,views_of_society,Labor unions have a negative effect on the way things are going in the country these days,0,41,3,80,5,58,3,63,4,58,3,36,2,24,2,31,2,12,1,11,1
+648,views_of_society,Labor unions have a positive effect on the way things are going in the country these days,0,55,3,18,1,34,2,33,2,40,3,58,3,73,4,65,4,83,5,85,5
+649,views_of_society,Large corporations have a negative effect on the way things are going in the country these days,0,68,4,70,4,54,3,82,5,56,3,64,4,78,4,65,4,64,4,90,5
+650,views_of_society,Large corporations have a positive effect on the way things are going in the country these days,0,29,2,28,2,41,3,17,1,41,3,33,2,19,1,31,2,33,2,8,1
+651,views_of_society,Life in America today is better about the same as it was 50 years ago for people like me,0,20,1,12,1,18,1,12,1,19,1,20,1,25,2,23,2,24,2,19,1
+652,views_of_society,Life in America today is better than it was 50 years ago for people like me,0,36,2,19,1,33,2,13,1,34,2,34,2,44,3,44,3,57,3,44,3
+653,views_of_society,Life in America today is worse than it was 50 years ago for people like me,0,43,3,68,4,48,3,75,4,46,3,45,3,31,2,31,2,17,1,37,2
+654,views_of_society,Most big issues facing the country today don’t have clear solutions,0,51,3,28,2,45,3,44,3,57,3,62,4,60,4,54,3,53,3,35,2
+655,views_of_society,Most people can be trusted,0,32,2,32,2,37,2,24,2,36,2,22,2,40,3,26,2,46,3,46,3
+656,views_of_society,Most things in society are too complicated to be clearly divided between good and evil,0,50,3,25,2,43,3,35,2,56,3,46,3,69,4,51,3,64,4,68,4
+657,views_of_society,Most things in society can be pretty clearly divided into good and evil,0,48,3,74,4,55,3,64,4,42,3,52,3,30,2,47,3,35,2,31,2
+658,views_of_society,People being too easily offended by things others say is a major problem in the country today ,0,65,4,89,5,80,5,89,5,73,4,74,4,35,2,81,5,26,2,20,1
+659,views_of_society,People being too easily offended by things others say is a minor problem in the country today ,0,28,2,9,1,17,1,9,1,24,2,23,2,49,3,17,1,62,4,57,3
+660,views_of_society,People being too easily offended by things others say is not a problem in the country today ,0,6,1,2,1,2,1,1,1,4,1,2,1,15,1,1,1,11,1,23,2
+661,views_of_society,People in influential and powerful positions throughout our society do not understand the challenges people like me face in our daily lives at all well,0,33,2,35,2,21,2,45,3,24,2,31,2,46,3,37,2,20,1,40,3
+662,views_of_society,People in influential and powerful positions throughout our society do not understand the challenges people like me face in our daily lives too well,0,44,3,46,3,48,3,37,2,45,3,44,3,39,2,42,3,50,3,47,3
+663,views_of_society,People in influential and powerful positions throughout our society understand the challenges people like me face in our daily lives somewhat well,0,20,1,17,1,27,2,14,1,27,2,23,2,13,1,16,1,26,2,11,1
+664,views_of_society,People in influential and powerful positions throughout our society understand the challenges people like me face in our daily lives very well,0,3,1,2,1,3,1,3,1,3,1,2,1,1,1,5,1,2,1,1,1
+665,views_of_society,People like me generally get the respect we deserve in this country,0,57,3,60,4,72,4,52,3,63,4,55,3,52,3,49,3,66,4,55,3
+666,views_of_society,People like me just don’t get the respect we deserve in this country,0,40,3,36,2,25,2,45,3,34,2,43,3,44,3,48,3,31,2,44,3
+667,views_of_society,People saying things that are very offensive to others is a major problem in the country today ,0,53,3,30,2,35,2,41,3,28,2,65,4,60,4,76,4,59,3,63,4
+668,views_of_society,People saying things that are very offensive to others is a minor problem in the country today ,0,38,2,46,3,46,3,43,3,55,3,32,2,35,2,21,2,37,2,33,2
+669,views_of_society,People saying things that are very offensive to others is not a problem in the country today ,0,9,1,24,2,17,1,16,1,16,1,1,1,4,1,2,1,4,1,4,1
+670,views_of_society,Racism is a moderately big problem in the country today,0,28,2,16,1,25,2,25,2,36,2,36,2,27,2,26,2,29,2,22,2
+671,views_of_society,Racism is a small problem in the country today,0,21,2,51,3,46,3,40,3,37,2,14,1,4,1,4,1,6,1,2,1
+672,views_of_society,Racism is a very big problem in the country today,0,45,3,8,1,16,1,23,2,19,1,48,3,69,4,70,4,63,4,76,4
+673,views_of_society,Racism is not a problem at all in the country today,0,6,1,24,2,12,1,12,1,7,1,1,1,0,1,0,1,1,1,0,1
+674,views_of_society,Racism is the biggest problem in the country today,0,16,1,2,1,6,1,5,1,10,1,19,1,25,2,29,2,20,1,20,1
+675,views_of_society,Same-sex marriages being legal in the U.S. is neither good nor bad for society,0,34,2,27,2,35,2,39,2,43,3,39,2,23,2,41,3,28,2,10,1
+676,views_of_society,Same-sex marriages being legal in the U.S. is somewhat bad for society,0,11,1,20,1,19,1,13,1,13,1,11,1,6,1,9,1,6,1,1,1
+677,views_of_society,Same-sex marriages being legal in the U.S. is somewhat good for society,0,10,1,4,1,9,1,7,1,14,1,12,1,10,1,12,1,15,1,8,1
+678,views_of_society,Same-sex marriages being legal in the U.S. is very bad for society,0,19,1,47,3,30,2,33,2,16,1,23,2,7,1,10,1,6,1,2,1
+679,views_of_society,Same-sex marriages being legal in the U.S. is very good for society,0,25,2,1,1,6,1,8,1,14,1,14,1,52,3,27,2,44,3,78,4
+680,views_of_society,Success in life is pretty much determined by forces outside of our control,0,26,2,8,1,7,1,17,1,17,1,24,2,45,3,31,2,31,2,62,4
+681,views_of_society,Technology companies have a negative effect on the way things are going in the country these days,0,46,3,76,4,56,3,74,4,43,3,42,3,38,2,34,2,25,2,51,3
+682,views_of_society,Technology companies have a positive effect on the way things are going in the country these days,0,52,3,23,2,42,3,25,2,55,3,53,3,60,4,64,4,73,4,47,3
+683,views_of_society,The entertainment industry has a negative effect on the way things are going in the country these days,0,64,4,93,5,78,4,87,5,74,4,62,4,60,4,47,3,41,3,47,3
+684,views_of_society,The entertainment industry has a positive effect on the way things are going in the country these days,0,34,2,6,1,20,1,12,1,25,2,38,2,38,2,51,3,55,3,51,3
+685,views_of_society,The federal budget deficit is a moderately big problem in the country today ,0,34,2,16,1,26,2,18,1,33,2,37,2,42,3,43,3,48,3,40,3
+686,views_of_society,The federal budget deficit is a small problem in the country today ,0,11,1,2,1,7,1,4,1,11,1,8,1,19,1,11,1,20,1,30,2
+687,views_of_society,The federal budget deficit is a very big problem in the country today ,0,50,3,81,5,65,4,77,4,54,3,51,3,31,2,43,3,28,2,19,1
+688,views_of_society,The federal budget deficit is not a problem at all in the country today ,0,3,1,1,1,2,1,1,1,2,1,3,1,7,1,3,1,4,1,10,1
+689,views_of_society,The federal budget deficit is the biggest problem in the country today,0,11,1,21,2,23,2,20,1,28,2,9,1,4,1,3,1,3,1,0,1
+690,views_of_society,There are clear solutions to most big issues facing the country today,0,48,3,70,4,53,3,55,3,42,3,36,2,39,2,45,3,44,3,65,4
+691,views_of_society,"Thinking about the way things have been going in politics over the last few years on the issues that matter to you, my side has been losing more often than winning",0,65,4,81,5,70,4,77,4,68,4,57,3,68,4,59,3,53,3,68,4
+692,views_of_society,"Thinking about the way things have been going in politics over the last few years on the issues that matter to you, my side has been winning more often than losing",0,29,2,15,1,27,2,19,1,27,2,30,2,26,2,37,2,42,3,29,2
+693,views_of_society,Violent crime is a moderately big problem in the country today ,0,29,2,18,1,29,2,21,2,35,2,28,2,33,2,22,2,35,2,44,3
+694,views_of_society,Violent crime is a small problem in the country today ,0,9,1,5,1,6,1,5,1,12,1,5,1,21,2,5,1,12,1,24,2
+695,views_of_society,Violent crime is a very big problem in the country today ,0,61,4,77,4,63,4,73,4,52,3,66,4,44,3,73,4,53,3,32,2
+696,views_of_society,Violent crime is not a problem at all in the country today ,0,1,1,1,1,1,1,0,1,1,1,1,1,2,1,0,1,0,1,1,1
+697,views_of_society,Violent crime is the biggest problem in the country today,0,21,2,20,1,26,2,20,1,29,2,27,2,12,1,22,2,20,1,5,1
+698,views_of_society,White people declining as a share of the U.S. population is neither good nor bad for society,0,61,4,58,3,63,4,48,3,67,4,61,4,61,4,66,4,67,4,54,3
+699,views_of_society,White people declining as a share of the U.S. population is somewhat bad for society,0,13,1,20,1,21,2,26,2,13,1,16,1,6,1,12,1,5,1,2,1
+700,views_of_society,White people declining as a share of the U.S. population is somewhat good for society,0,8,1,2,1,3,1,2,1,9,1,8,1,15,1,7,1,13,1,19,1
+701,views_of_society,White people declining as a share of the U.S. population is very bad for society,0,9,1,20,1,11,1,21,2,8,1,10,1,1,1,5,1,3,1,1,1
+702,views_of_society,White people declining as a share of the U.S. population is very good for society,0,7,1,0,1,0,1,1,1,2,1,4,1,17,1,7,1,10,1,24,2
+703,views_of_society,You can’t be too careful in dealing with people,0,66,4,67,4,62,4,75,4,63,4,77,4,59,3,73,4,51,3,53,3
+704,voting,A voter should only be allowed to vote early or absentee if they have a documented reason for not voting in person on Election Day,0,36,5,74,5,60,5,69,5,49,5,37,5,20,5,15,5,12,5,5,5
+705,voting,Any voter should have the option to vote early or absentee without having to document a reason,0,63,5,25,5,39,5,30,5,51,5,62,5,78,5,84,5,88,5,95,5
+706,voting,Citizens should have to prove they really want to vote by registering ahead of time,0,39,5,87,5,75,5,78,5,51,5,39,5,13,5,17,5,11,5,1,5
+707,voting,Everything possible should be done to make it easy for every citizen to vote,0,59,5,10,5,23,5,20,5,48,5,60,5,85,5,81,5,89,5,99,5
+708,voting,I am not confident at all that people who are legally qualified and want to vote are able to cast a ballot,1,5,5,3,5,4,5,5,5,4,5,2,5,9,5,5,5,5,5,11,5
+709,voting,I am not confident at all that people who are NOT legally qualified to vote are prevented from casting a ballot,1,18,5,50,5,30,5,40,5,19,5,11,5,7,5,6,5,3,5,3,5
+710,voting,I am not too confident that people who are legally qualified and want to vote are able to cast a ballot,1,17,5,6,5,7,5,10,5,11,5,14,5,27,5,18,5,25,5,36,5
+711,voting,I am not too confident that people who are NOT legally qualified to vote are prevented from casting a ballot,1,24,5,36,5,38,5,36,5,36,5,28,5,18,5,12,5,10,5,10,5
+712,voting,I am somewhat confident that people who are legally qualified and want to vote are able to cast a ballot,1,36,5,23,5,24,5,38,5,38,5,38,5,38,5,38,5,46,5,37,5
+713,voting,I am somewhat confident that people who are NOT legally qualified to vote are prevented from casting a ballot,1,31,5,7,5,21,5,17,5,33,5,39,5,40,5,42,5,40,5,26,5
+714,voting,I am very confident that people who are legally qualified and want to vote are able to cast a ballot,1,40,5,67,5,63,5,46,5,45,5,43,5,22,5,38,5,22,5,14,5
+715,voting,I am very confident that people who are NOT legally qualified to vote are prevented from casting a ballot,1,25,5,6,5,9,5,7,5,10,5,20,5,32,5,37,5,45,5,60,5
+716,voting,I somewhat favor allowing people convicted of felonies to vote after serving their sentences,1,35,5,30,5,31,5,33,5,43,5,36,5,37,5,37,5,34,5,25,5
+717,voting,I somewhat favor automatically registering all eligible citizens to vote,1,25,5,15,5,23,5,23,5,34,5,27,5,30,5,29,5,27,5,15,5
+718,voting,"I somewhat favor making early, in-person voting available to voters for at least two weeks prior to Election Day",1,31,5,36,5,43,5,36,5,42,5,40,5,27,5,25,5,26,5,12,5
+719,voting,I somewhat favor making Election Day a national holiday,1,27,5,36,5,23,5,30,5,29,5,26,5,26,5,24,5,27,5,16,5
+720,voting,I somewhat favor removing people from registration lists if they have not recently voted or confirmed their registration,1,25,5,32,5,37,5,27,5,37,5,36,5,22,5,20,5,13,5,9,5
+721,voting,I somewhat favor requiring all voters to show government-issued photo identification to vote,1,23,5,6,5,12,5,8,5,26,5,29,5,33,5,30,5,32,5,22,5
+722,voting,I somewhat favor requiring electronic voting machines to print a paper backup of the ballot,1,39,5,28,5,39,5,33,5,43,5,44,5,41,5,41,5,43,5,46,5
+723,voting,I somewhat oppose allowing people convicted of felonies to vote after serving their sentences,1,16,5,25,5,29,5,28,5,19,5,15,5,6,5,8,5,11,5,6,5
+724,voting,I somewhat oppose automatically registering all eligible citizens to vote,1,18,5,23,5,24,5,19,5,25,5,28,5,15,5,11,5,12,5,5,5
+725,voting,"I somewhat oppose making early, in-person voting available to voters for at least two weeks prior to Election Day",1,12,5,18,5,11,5,22,5,22,5,14,5,8,5,4,5,3,5,1,5
+726,voting,I somewhat oppose making Election Day a national holiday,1,16,5,18,5,24,5,17,5,20,5,22,5,12,5,14,5,13,5,2,5
+727,voting,I somewhat oppose removing people from registration lists if they have not recently voted or confirmed their registration,1,24,5,10,5,19,5,19,5,26,5,25,5,29,5,28,5,31,5,29,5
+728,voting,I somewhat oppose requiring all voters to show government-issued photo identification to vote,1,13,5,2,5,2,5,1,5,10,5,12,5,19,5,15,5,22,5,31,5
+729,voting,I somewhat oppose requiring electronic voting machines to print a paper backup of the ballot,1,10,5,5,5,6,5,5,5,15,5,14,5,10,5,11,5,12,5,7,5
+730,voting,I strongly favor allowing people convicted of felonies to vote after serving their sentences,1,36,5,10,5,19,5,17,5,25,5,36,5,53,5,47,5,49,5,69,5
+731,voting,I strongly favor automatically registering all eligible citizens to vote,1,36,5,5,5,16,5,20,5,16,5,28,5,49,5,52,5,56,5,79,5
+732,voting,"I strongly favor making early, in-person voting available to voters for at least two weeks prior to Election Day",1,47,5,19,5,23,5,24,5,24,5,40,5,61,5,65,5,67,5,86,5
+733,voting,I strongly favor making Election Day a national holiday,1,42,5,23,5,29,5,36,5,28,5,31,5,53,5,49,5,54,5,80,5
+734,voting,I strongly favor removing people from registration lists if they have not recently voted or confirmed their registration,1,21,5,51,5,31,5,45,5,19,5,17,5,7,5,10,5,8,5,1,5
+735,voting,I strongly favor requiring all voters to show government-issued photo identification to vote,1,53,5,91,5,85,5,89,5,59,5,55,5,31,5,38,5,26,5,15,5
+736,voting,I strongly favor requiring electronic voting machines to print a paper backup of the ballot,1,43,5,62,5,49,5,55,5,34,5,32,5,36,5,41,5,38,5,44,5
+737,voting,I strongly oppose allowing people convicted of felonies to vote after serving their sentences,1,12,5,35,5,19,5,21,5,13,5,12,5,2,5,6,5,3,5,1,5
+738,voting,I strongly oppose automatically registering all eligible citizens to vote,1,19,5,54,5,35,5,38,5,24,5,16,5,4,5,7,5,3,5,1,5
+739,voting,"I strongly oppose making early, in-person voting available to voters for at least two weeks prior to Election Day",1,9,5,24,5,21,5,17,5,10,5,5,5,1,5,3,5,1,5,1,5
+740,voting,I strongly oppose making Election Day a national holiday,1,13,5,19,5,21,5,16,5,21,5,19,5,6,5,12,5,4,5,2,5
+741,voting,I strongly oppose removing people from registration lists if they have not recently voted or confirmed their registration,1,27,5,4,5,12,5,8,5,15,5,21,5,40,5,40,5,44,5,60,5
+742,voting,I strongly oppose requiring all voters to show government-issued photo identification to vote,1,10,5,1,5,0,5,2,5,4,5,3,5,15,5,16,5,18,5,32,5
+743,voting,I strongly oppose requiring electronic voting machines to print a paper backup of the ballot,1,5,5,3,5,5,5,5,5,4,5,8,5,6,5,6,5,4,5,2,5
+744,voting,"If election rules were changed to make it easier to register and vote, that would also make elections less secure",0,36,5,79,5,64,5,61,5,49,5,37,5,19,5,15,5,14,5,6,5
+745,voting,It is not important at all that people who are legally qualified and want to vote are able to cast a ballot,0,1,5,1,5,1,5,1,5,3,5,1,5,2,5,1,5,0,5,0,5
+746,voting,It is not important at all that people who are NOT legally qualified to vote are prevented from casting a ballot,0,6,5,4,5,4,5,6,5,6,5,5,5,13,5,5,5,4,5,10,5
+747,voting,It is not too important that people who are legally qualified and want to vote are able to cast a ballot,0,3,5,2,5,4,5,3,5,8,5,6,5,2,5,1,5,3,5,0,5
+748,voting,It is not too important that people who are NOT legally qualified to vote are prevented from casting a ballot,0,11,5,1,5,4,5,4,5,12,5,9,5,25,5,9,5,16,5,25,5
+749,voting,It is somewhat important that people who are legally qualified and want to vote are able to cast a ballot,0,12,5,6,5,10,5,10,5,19,5,15,5,13,5,9,5,12,5,5,5
+750,voting,It is somewhat important that people who are NOT legally qualified to vote are prevented from casting a ballot,0,22,5,5,5,10,5,6,5,20,5,26,5,33,5,26,5,33,5,36,5
+751,voting,It is very important that people who are legally qualified and want to vote are able to cast a ballot,0,82,5,90,5,84,5,85,5,68,5,76,5,81,5,88,5,83,5,94,5
+752,voting,It is very important that people who are NOT legally qualified to vote are prevented from casting a ballot,0,59,5,90,5,79,5,83,5,60,5,58,5,26,5,57,5,46,5,28,5
+753,voting,It would not make elections any less secure if election rules were changed to make it easier to register and vote,0,61,5,19,5,32,5,36,5,47,5,58,5,78,5,83,5,84,5,93,5
+754,voting,"Thinking about the way in which the president is elected in this country, I would prefer changing the current system, so the candidate who receives the most total votes nationwide wins the election",1,55,5,22,5,30,5,43,5,38,5,58,5,68,5,68,5,69,5,93,5
+755,voting,"Thinking about the way in which the president is elected in this country, I would prefer keeping the current system, in which the candidate who wins the most votes in the Electoral College wins the election",1,43,5,77,5,65,5,55,5,60,5,37,5,29,5,31,5,30,5,7,5
+756,voting,Voting by people like me doesn’t really affect how government runs things,0,39,5,40,5,38,5,61,5,49,5,44,5,43,5,29,5,20,5,22,5
+757,voting,Voting gives people like me some say about how government runs things,0,59,5,59,5,61,5,38,5,49,5,52,5,55,5,70,5,79,5,77,5
+758,voting,Voting is a fundamental right for every adult U.S. citizen and should not be restricted in any way,0,57,5,19,5,29,5,25,5,40,5,56,5,83,5,79,5,82,5,91,5
+759,voting,Voting is a privilege that comes with responsibilities and can be limited if adult U.S. citizens don’t meet some requirements,0,42,5,80,5,70,5,74,5,59,5,42,5,15,5,20,5,17,5,8,5

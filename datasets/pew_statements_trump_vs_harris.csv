@@ -1,155 +1,155 @@
 id,theme,statement,perc_all_voters_agree,perc_Harris_supporters_agree,perc_Trump_supporters_agree,dominant,controversy,verdict_total,verdict_Harris,verdict_Trump
-79,america and its history,I think it's extremely important to have public discussions about the country’s historical failures and flaws,35,45,27,Harris,18,2,1,2
-135,america and its history,I think it's extremely important to have public discussions about the country’s historical successes and strengths ,34,36,34,Harris,2,2,1,2
-141,america and its history,I think it's not important at all to have public discussions about the country’s historical failures and flaws,2,1,2,Trump,1,1,1,1
-148,america and its history,I think it's not important at all to have public discussions about the country’s historical successes and strengths ,1,1,1,Neutral,0,1,1,1
-120,america and its history,I think it's not too important to have public discussions about the country’s historical failures and flaws,4,1,7,Trump,6,1,1,1
-147,america and its history,I think it's not too important to have public discussions about the country’s historical successes and strengths ,3,3,3,Neutral,0,1,1,1
-100,america and its history,I think it's somewhat important to have public discussions about the country’s historical failures and flaws,25,19,31,Trump,12,2,1,2
-146,america and its history,I think it's somewhat important to have public discussions about the country’s historical successes and strengths ,23,23,23,Neutral,0,2,1,2
-140,america and its history,I think it's very important to have public discussions about the country’s historical failures and flaws,33,33,32,Harris,1,2,1,2
-136,america and its history,I think it's very important to have public discussions about the country’s historical successes and strengths ,38,36,38,Trump,2,2,1,2
-115,america and its history,"The U.S. is one of the greatest countries in the world, along with some others",56,60,53,Harris,7,3,1,3
-65,america and its history,The U.S. stands above all other countries in the world,23,12,35,Trump,23,2,2,2
-86,america and its history,There are other countries that are better than the U.S.,20,27,11,Harris,16,1,1,1
-105,crime and policing,Keeping communities safe is extremely important,74,68,79,Trump,11,4,1,4
-142,crime and policing,Keeping communities safe is not important at all,0,0,1,Trump,1,1,1,1
-150,crime and policing,Keeping communities safe is not too important,0,0,0,Neutral,0,1,1,1
-149,crime and policing,Keeping communities safe is somewhat important,4,3,3,Neutral,0,1,1,1
-108,crime and policing,Keeping communities safe is very important,21,27,17,Harris,10,2,1,1
-62,crime and policing,Maintaining public respect for police officers is extremely important,50,39,64,Trump,25,3,2,4
-137,crime and policing,Maintaining public respect for police officers is not important at all,2,3,1,Harris,2,1,1,1
-129,crime and policing,Maintaining public respect for police officers is not too important,4,6,1,Harris,5,1,1,1
-106,crime and policing,Maintaining public respect for police officers is somewhat important,15,21,10,Harris,11,1,1,1
-116,crime and policing,Maintaining public respect for police officers is very important,28,31,24,Harris,7,2,1,2
-103,crime and policing,Protecting the rights of people suspected of crimes is extremely important,31,37,25,Harris,12,2,1,2
-143,crime and policing,Protecting the rights of people suspected of crimes is not important at all,3,3,4,Trump,1,1,1,1
-121,crime and policing,Protecting the rights of people suspected of crimes is not too important,6,4,10,Trump,6,1,1,1
-109,crime and policing,Protecting the rights of people suspected of crimes is somewhat important,25,18,28,Trump,10,2,1,2
-128,crime and policing,Protecting the rights of people suspected of crimes is very important,34,37,32,Harris,5,2,1,2
-66,crime and policing,The criminal justice system in the U.S. is generally about right in its treatment of criminals,25,35,13,Harris,22,2,2,1
-31,crime and policing,The criminal justice system in the U.S. is generally not tough enough on criminals,61,39,83,Trump,44,4,3,5
-76,crime and policing,The criminal justice system in the U.S. is generally too tough on criminals,13,22,3,Harris,19,1,1,1
-68,crime and policing,Treating people of all racial and ethnic groups equally is extremely important,68,77,57,Harris,20,4,1,3
-152,crime and policing,Treating people of all racial and ethnic groups equally is not important at all,1,1,1,Neutral,0,1,1,1
-151,crime and policing,Treating people of all racial and ethnic groups equally is not too important,1,1,1,Neutral,0,1,1,1
-114,crime and policing,Treating people of all racial and ethnic groups equally is somewhat important,6,3,11,Trump,8,1,1,1
-93,crime and policing,Treating people of all racial and ethnic groups equally is very important,24,17,31,Trump,14,2,1,2
-45,foreign policy,"In foreign policy, the U.S. should follow its own national interests even when its allies strongly disagree",40,20,59,Trump,39,3,2,3
-44,foreign policy,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",59,79,40,Harris,39,3,2,3
-71,foreign policy,"In the future, it would be acceptable if another country became as militarily powerful as the U.S.",32,42,22,Harris,20,2,1,2
-67,foreign policy,"In the future, U.S. policies should try to keep it so America is the only military superpower",65,55,76,Trump,21,4,2,4
-97,foreign policy,It is extremely important for the U.S. to take an active role in world affairs,26,33,20,Harris,13,2,1,1
-144,foreign policy,It is not important at all for the U.S. to take an active role in world affairs,2,1,2,Trump,1,1,1,1
-139,foreign policy,It is not too important for the U.S. to take an active role in world affairs,5,3,5,Trump,2,1,1,1
-94,foreign policy,It is somewhat important for the U.S. to take an active role in world affairs,32,26,40,Trump,14,2,1,3
-130,foreign policy,It is very important for the U.S. to take an active role in world affairs,34,38,33,Harris,5,2,1,2
-107,foreign policy,The U.S. having a strong military has no impact on how safe the world is,20,25,14,Harris,11,1,1,1
-133,foreign policy,The U.S. having a strong military make the world less safe,4,6,3,Harris,3,1,1,1
-91,foreign policy,The U.S. having a strong military make the world more safe,75,68,83,Trump,15,4,1,5
-24,gender identify and sexual orientation,I am comfortable with someone using the pronouns “they/them” instead of “he” or “she” to describe themselves,43,68,17,Harris,51,3,3,1
-23,gender identify and sexual orientation,I am uncomfortable with someone using the pronouns “they/them” instead of “he” or “she” to describe themselves,56,31,82,Trump,51,3,3,5
-134,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is neither good nor bad for society",36,36,34,Harris,2,2,1,2
-78,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is somewhat bad for society",15,6,24,Trump,18,1,1,2
-98,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is somewhat good for society",12,18,6,Harris,12,1,1,1
-55,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is very bad for society",18,4,33,Trump,29,1,2,2
-50,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is very good for society",19,35,3,Harris,32,1,2,1
-118,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is neither good nor bad for society,35,31,37,Trump,6,2,1,2
-110,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is somewhat bad for society,12,8,17,Trump,9,1,1,1
-111,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is somewhat good for society,9,12,4,Harris,8,1,1,1
-51,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is very bad for society,20,4,36,Trump,32,1,2,2
-39,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is very good for society,24,46,5,Harris,41,2,3,1
-19,gender identify and sexual orientation,Someone can be a man or a woman even if that is different from the sex they were assigned at birth,34,60,7,Harris,53,2,3,1
-18,gender identify and sexual orientation,Whether someone is a man or a woman is determined by the sex they were assigned at birth,65,39,92,Trump,53,4,3,5
-113,"gender, family and reproductive issues",Abortion should be illegal in all cases,7,3,11,Trump,8,1,1,1
-35,"gender, family and reproductive issues",Abortion should be illegal in most cases,29,9,52,Trump,43,2,3,3
-48,"gender, family and reproductive issues",Abortion should be legal in all cases,25,43,7,Harris,36,2,2,1
-88,"gender, family and reproductive issues",Abortion should be legal in most cases,37,44,28,Harris,16,2,1,2
-126,"gender, family and reproductive issues","As you may know, in vitro fertilization (IVF) is a type of medical procedure that is used by some people to become pregnant, often when they are unable to get pregnant on their own. In most cases, multiple embryos are created in this process. All in all, do you think people having access to IVF is a bad thing",5,2,7,Trump,5,1,1,1
-75,"gender, family and reproductive issues","As you may know, in vitro fertilization (IVF) is a type of medical procedure that is used by some people to become pregnant, often when they are unable to get pregnant on their own. In most cases, multiple embryos are created in this process. All in all, do you think people having access to IVF is a good thing",73,84,65,Harris,19,4,1,4
-89,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is neither good nor bad for society good for society",13,6,22,Trump,16,1,1,2
-127,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is somewhat bad for society",5,2,7,Trump,5,1,1,1
-102,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is somewhat good for society",20,15,27,Trump,12,1,1,2
-132,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is very bad for society",2,0,4,Trump,4,1,1,1
-49,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is very good for society",60,77,41,Harris,36,4,2,3
-58,"gender, family and reproductive issues",I am comfortable with women not taking their husbands’ last names when they get married,75,88,61,Harris,27,4,2,4
-59,"gender, family and reproductive issues",I am uncomfortable with women not taking their husbands’ last names when they get married,25,12,38,Trump,26,2,2,2
-92,"gender, family and reproductive issues",People having fewer children is neither good nor bad for society good for society,43,50,36,Harris,14,3,1,2
-104,"gender, family and reproductive issues",People having fewer children is somewhat bad for society,24,19,30,Trump,11,2,1,2
-125,"gender, family and reproductive issues",People having fewer children is somewhat good for society,17,20,15,Harris,5,1,1,1
-101,"gender, family and reproductive issues",People having fewer children is very bad for society,10,4,16,Trump,12,1,1,1
-131,"gender, family and reproductive issues",People having fewer children is very good for society,6,8,4,Harris,4,1,1,1
-34,"gender, family and reproductive issues",Society is better off if people make marriage and having children a priority,39,17,60,Trump,43,2,3,4
-38,"gender, family and reproductive issues",Society is just as well off if people have priorities other than marriage and children ,59,81,39,Harris,42,3,3,2
-87,"gender, family and reproductive issues",The gains women have made in society have come at the expense of men,17,11,27,Trump,16,1,1,2
-80,"gender, family and reproductive issues",The gains women have made in society have NOT come at the expense of men ,82,89,71,Harris,18,5,1,4
-30,"gender, family and reproductive issues",The obstacles that once made it harder for women than men to get ahead are now largely gone,48,27,71,Trump,44,3,3,4
-28,"gender, family and reproductive issues",There are still significant obstacles that make it harder for women to get ahead than men ,51,73,28,Harris,45,3,3,2
-21,"government aid to poor, health care and Social Security","Government aid to the poor does more good than harm, because people can’t get out of poverty until their basic needs are met",55,80,27,Harris,53,3,3,2
-17,"government aid to poor, health care and Social Security","Government aid to the poor does more harm than good, by making people too dependent on government assistance",44,18,72,Trump,54,3,3,4
-40,"government aid to poor, health care and Social Security",Health insurance should be provided through a single national health insurance system run by the government,33,53,12,Harris,41,2,3,1
-83,"government aid to poor, health care and Social Security",Health insurance should continue to be provided through a mix of private insurance companies and government programs,29,36,19,Harris,17,2,1,1
-10,"government aid to poor, health care and Social Security",It is not the responsibility of the federal government to make sure all Americans have health care coverage,37,9,67,Trump,58,2,3,4
-9,"government aid to poor, health care and Social Security",It is the responsibility of the federal government to make sure all Americans have health care coverage,63,91,32,Harris,59,4,3,2
-124,"government aid to poor, health care and Social Security",Social Security benefits should not be reduced in any way,80,83,77,Harris,6,5,1,4
-96,"government aid to poor, health care and Social Security",Social Security should be kept about as it is,41,36,49,Trump,13,3,1,3
-138,"government aid to poor, health care and Social Security",Social Security should be maintained at a reduced level,15,14,16,Trump,2,1,1,1
-123,"government aid to poor, health care and Social Security",Social Security should be phased out as a government program ,4,1,7,Trump,6,1,1,1
-70,"government aid to poor, health care and Social Security","Social Security should cover more people, with greater benefits ",38,47,27,Harris,20,2,1,2
-117,"government aid to poor, health care and Social Security",Some reductions in benefits for future retirees need to be considered,19,16,23,Trump,7,1,1,2
-122,"government aid to poor, health care and Social Security",The government is providing about the right amount of assistance to people in need,31,32,26,Harris,6,2,1,2
-29,"government aid to poor, health care and Social Security",The government should continue programs like Medicare and Medicaid for seniors and the very poor,30,9,54,Trump,45,2,3,3
-32,"government aid to poor, health care and Social Security","The government should do more to help needy Americans, even if it means going deeper into debt",51,72,28,Harris,44,3,3,2
-95,"government aid to poor, health care and Social Security",The government should not be involved in providing health insurance at all,7,0,13,Trump,13,1,1,1
-27,"government aid to poor, health care and Social Security",The government should provide less assistance to people in need,29,8,56,Trump,48,2,3,3
-36,"government aid to poor, health care and Social Security",The government should provide more assistance to people in need,39,60,17,Harris,43,2,3,1
-33,"government aid to poor, health care and Social Security",The government today can't afford to do much more to help the needy ,47,27,71,Trump,44,3,3,4
-153,"government's scope, efficiency and role","As Americans, we can always find ways to solve our problems and get what we want",48,47,47,Neutral,0,3,1,3
-26,"government's scope, efficiency and role",Government is almost always wasteful and inefficient ,57,33,82,Trump,49,3,3,5
-15,"government's scope, efficiency and role",Government is doing too many things better left to businesses and individuals,49,23,78,Trump,55,3,3,4
-25,"government's scope, efficiency and role",Government often does a better job than people give it credit for ,42,67,17,Harris,50,3,3,1
-6,"government's scope, efficiency and role",Government regulation of business is necessary to protect the public interest ,58,88,26,Harris,62,3,4,2
-8,"government's scope, efficiency and role",Government regulation of business usually does more harm than good ,41,12,73,Trump,61,3,4,4
-14,"government's scope, efficiency and role",Government should do more to solve problems,50,76,21,Harris,55,3,3,2
-7,"government's scope, efficiency and role",If I had to choose I would rather have a bigger government providing more services,46,76,15,Harris,61,3,4,1
-5,"government's scope, efficiency and role",If I had to choose I would rather have a smaller government providing fewer services,51,22,84,Trump,62,3,4,5
-154,"government's scope, efficiency and role",This country can't solve many of its important problems,51,52,52,Neutral,0,3,1,3
-57,guns,An increase in the number of guns in the U.S. is neither good nor bad for society,25,12,40,Trump,28,2,2,3
-90,guns,An increase in the number of guns in the U.S. is somewhat bad for society,20,28,12,Harris,16,1,1,1
-77,guns,An increase in the number of guns in the U.S. is somewhat good for society,12,2,21,Trump,19,1,1,2
-22,guns,An increase in the number of guns in the U.S. is very bad for society,32,58,6,Harris,52,2,3,1
-69,guns,An increase in the number of guns in the U.S. is very good for society,10,1,21,Trump,20,1,1,2
-1,guns,Gun ownership does more to increase safety by allowing law-abiding citizens to protect themselves than to reduce safety by giving too many people access to firearms and increasing misuse,54,18,89,Trump,71,3,1,5
-2,guns,Gun ownership does more to reduce safety by giving too many people access to firearms and increasing misuse than to increase safety by allowing law-abiding citizens to protect themselves,45,81,10,Harris,71,3,4,1
-4,guns,It is more important to control gun ownership than to protect the right of Americans to own guns,47,80,12,Harris,68,3,4,1
-3,guns,It is more important to protect the right of Americans to own guns than to control gun ownership,52,18,87,Trump,69,3,4,5
-16,immigration,America’s openness to people from all over the world is essential to who we are as a nation,61,88,34,Harris,54,4,3,2
-56,immigration,I am comfortable with people speaking a language other than English in public places in your community,68,82,53,Harris,29,4,2,3
-54,immigration,I am uncomfortable with people speaking a language other than English in public places in your community,31,17,47,Trump,30,2,2,3
-20,immigration,"If America is too open to people from all over the world, we risk losing our identity as a nation",37,12,65,Trump,53,2,3,4
-99,immigration,"Immigrants who are in the U.S. illegally and meet the requirements be eligible to apply for permanent residency, but no U.S. citizenship",22,27,15,Harris,12,2,1,1
-37,immigration,Immigrants who are in the U.S. illegally and meet the requirements should be eligible to apply for U.S. citizenship,36,56,14,Harris,42,2,3,1
-13,immigration,There should be a national law enforcement effort to deport all immigrants who are now living in the U.S. illegally,37,11,66,Trump,55,2,3,4
-11,immigration,"There should be a way for undocumented immigrants to stay in the country legally, if certain requirements are met",59,85,29,Harris,56,3,3,2
-145,immigration,There should NOT be a national law enforcement effort to deport all immigrants who are now living in the U.S. illegally,3,3,3,Neutral,0,1,1,1
-12,immigration,Undocumented immigrants should not be allowed to stay in the country legally,41,15,70,Trump,55,3,3,4
-73,race and ethnicity,"The fact that the U.S. population is made up of people of many different races, doesn’t make much difference ",23,14,33,Trump,19,2,1,2
-47,race and ethnicity,"The fact that the U.S. population is made up of people of many different races, ethnicities and religions strengthens American society",65,83,46,Harris,37,4,2,3
-84,race and ethnicity,"The fact that the U.S. population is made up of people of many different races, ethnicities and religions weakens American society",11,3,19,Trump,16,1,1,1
-72,race and ethnicity,The legacy of slavery affects the position of Black people in American society today a fair amount,27,37,18,Harris,19,2,1,1
-46,race and ethnicity,The legacy of slavery affects the position of Black people in American society today a great deal,26,44,6,Harris,38,2,2,1
-81,race and ethnicity,The legacy of slavery does not affect the position of Black people in American society today much,24,15,32,Trump,17,2,1,2
-42,race and ethnicity,The legacy of slavery does not at all affect the position of Black people in American society today,22,4,43,Trump,39,2,2,3
-60,race and ethnicity,White people benefit a fair amount from advantages in society that Black people do not have ,27,39,14,Harris,25,2,2,1
-43,race and ethnicity,White people benefit a great deal from advantages in society that Black people do not have ,24,43,4,Harris,39,2,2,1
-74,race and ethnicity,White people declining as a share of the U.S. population is neither good nor bad for American society,64,74,55,Harris,19,4,1,3
-82,race and ethnicity,White people declining as a share of the U.S. population is somewhat bad for society,14,7,24,Trump,17,1,1,2
-112,race and ethnicity,White people declining as a share of the U.S. population is somewhat good for society,6,9,1,Harris,8,1,1,1
-85,race and ethnicity,White people declining as a share of the U.S. population is very bad for society,10,3,19,Trump,16,1,1,1
-119,race and ethnicity,White people declining as a share of the U.S. population is very good for society,4,7,1,Harris,6,1,1,1
-41,race and ethnicity,White people do not benefit at all from advantages in society that Black people do not have ,21,3,43,Trump,40,2,3,3
-61,race and ethnicity,White people do not benefit much from advantages in society that Black people do not have ,26,13,38,Trump,25,2,2,2
-53,religious values,Government policies should support religious values and beliefs ,28,13,45,Trump,32,2,2,3
-64,religious values,It is necessary to believe in God in order to be moral and have good values,33,22,46,Trump,24,2,2,3
-63,religious values,It is not necessary to believe in God in order to be moral and have good values,67,77,53,Harris,24,4,2,3
-52,religious values,Religion should be kept separate from government policies,71,87,55,Harris,32,4,2,3
+1,america and its history,I think it's extremely important to have public discussions about the country’s historical failures and flaws,35,45,27,Harris,18,2,1,2
+2,america and its history,I think it's extremely important to have public discussions about the country’s historical successes and strengths ,34,36,34,Harris,2,2,1,2
+3,america and its history,I think it's not important at all to have public discussions about the country’s historical failures and flaws,2,1,2,Trump,1,1,1,1
+4,america and its history,I think it's not important at all to have public discussions about the country’s historical successes and strengths ,1,1,1,Neutral,0,1,1,1
+5,america and its history,I think it's not too important to have public discussions about the country’s historical failures and flaws,4,1,7,Trump,6,1,1,1
+6,america and its history,I think it's not too important to have public discussions about the country’s historical successes and strengths ,3,3,3,Neutral,0,1,1,1
+7,america and its history,I think it's somewhat important to have public discussions about the country’s historical failures and flaws,25,19,31,Trump,12,2,1,2
+8,america and its history,I think it's somewhat important to have public discussions about the country’s historical successes and strengths ,23,23,23,Neutral,0,2,1,2
+9,america and its history,I think it's very important to have public discussions about the country’s historical failures and flaws,33,33,32,Harris,1,2,1,2
+10,america and its history,I think it's very important to have public discussions about the country’s historical successes and strengths ,38,36,38,Trump,2,2,1,2
+11,america and its history,"The U.S. is one of the greatest countries in the world, along with some others",56,60,53,Harris,7,3,1,3
+12,america and its history,The U.S. stands above all other countries in the world,23,12,35,Trump,23,2,2,2
+13,america and its history,There are other countries that are better than the U.S.,20,27,11,Harris,16,1,1,1
+14,crime and policing,Keeping communities safe is extremely important,74,68,79,Trump,11,4,1,4
+15,crime and policing,Keeping communities safe is not important at all,0,0,1,Trump,1,1,1,1
+16,crime and policing,Keeping communities safe is not too important,0,0,0,Neutral,0,1,1,1
+17,crime and policing,Keeping communities safe is somewhat important,4,3,3,Neutral,0,1,1,1
+18,crime and policing,Keeping communities safe is very important,21,27,17,Harris,10,2,1,1
+19,crime and policing,Maintaining public respect for police officers is extremely important,50,39,64,Trump,25,3,2,4
+20,crime and policing,Maintaining public respect for police officers is not important at all,2,3,1,Harris,2,1,1,1
+21,crime and policing,Maintaining public respect for police officers is not too important,4,6,1,Harris,5,1,1,1
+22,crime and policing,Maintaining public respect for police officers is somewhat important,15,21,10,Harris,11,1,1,1
+23,crime and policing,Maintaining public respect for police officers is very important,28,31,24,Harris,7,2,1,2
+24,crime and policing,Protecting the rights of people suspected of crimes is extremely important,31,37,25,Harris,12,2,1,2
+25,crime and policing,Protecting the rights of people suspected of crimes is not important at all,3,3,4,Trump,1,1,1,1
+26,crime and policing,Protecting the rights of people suspected of crimes is not too important,6,4,10,Trump,6,1,1,1
+27,crime and policing,Protecting the rights of people suspected of crimes is somewhat important,25,18,28,Trump,10,2,1,2
+28,crime and policing,Protecting the rights of people suspected of crimes is very important,34,37,32,Harris,5,2,1,2
+29,crime and policing,The criminal justice system in the U.S. is generally about right in its treatment of criminals,25,35,13,Harris,22,2,2,1
+30,crime and policing,The criminal justice system in the U.S. is generally not tough enough on criminals,61,39,83,Trump,44,4,3,5
+31,crime and policing,The criminal justice system in the U.S. is generally too tough on criminals,13,22,3,Harris,19,1,1,1
+32,crime and policing,Treating people of all racial and ethnic groups equally is extremely important,68,77,57,Harris,20,4,1,3
+33,crime and policing,Treating people of all racial and ethnic groups equally is not important at all,1,1,1,Neutral,0,1,1,1
+34,crime and policing,Treating people of all racial and ethnic groups equally is not too important,1,1,1,Neutral,0,1,1,1
+35,crime and policing,Treating people of all racial and ethnic groups equally is somewhat important,6,3,11,Trump,8,1,1,1
+36,crime and policing,Treating people of all racial and ethnic groups equally is very important,24,17,31,Trump,14,2,1,2
+37,foreign policy,"In foreign policy, the U.S. should follow its own national interests even when its allies strongly disagree",40,20,59,Trump,39,3,2,3
+38,foreign policy,"In foreign policy, the U.S. should take into account the interests of its allies even if it means making compromises with them",59,79,40,Harris,39,3,2,3
+39,foreign policy,"In the future, it would be acceptable if another country became as militarily powerful as the U.S.",32,42,22,Harris,20,2,1,2
+40,foreign policy,"In the future, U.S. policies should try to keep it so America is the only military superpower",65,55,76,Trump,21,4,2,4
+41,foreign policy,It is extremely important for the U.S. to take an active role in world affairs,26,33,20,Harris,13,2,1,1
+42,foreign policy,It is not important at all for the U.S. to take an active role in world affairs,2,1,2,Trump,1,1,1,1
+43,foreign policy,It is not too important for the U.S. to take an active role in world affairs,5,3,5,Trump,2,1,1,1
+44,foreign policy,It is somewhat important for the U.S. to take an active role in world affairs,32,26,40,Trump,14,2,1,3
+45,foreign policy,It is very important for the U.S. to take an active role in world affairs,34,38,33,Harris,5,2,1,2
+46,foreign policy,The U.S. having a strong military has no impact on how safe the world is,20,25,14,Harris,11,1,1,1
+47,foreign policy,The U.S. having a strong military make the world less safe,4,6,3,Harris,3,1,1,1
+48,foreign policy,The U.S. having a strong military make the world more safe,75,68,83,Trump,15,4,1,5
+49,gender identify and sexual orientation,I am comfortable with someone using the pronouns “they/them” instead of “he” or “she” to describe themselves,43,68,17,Harris,51,3,3,1
+50,gender identify and sexual orientation,I am uncomfortable with someone using the pronouns “they/them” instead of “he” or “she” to describe themselves,56,31,82,Trump,51,3,3,5
+51,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is neither good nor bad for society",36,36,34,Harris,2,2,1,2
+52,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is somewhat bad for society",15,6,24,Trump,18,1,1,2
+53,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is somewhat good for society",12,18,6,Harris,12,1,1,1
+54,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is very bad for society",18,4,33,Trump,29,1,2,2
+55,gender identify and sexual orientation,"More people feeling comfortable identifying as gay, lesbian, or bisexual than in the past is very good for society",19,35,3,Harris,32,1,2,1
+56,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is neither good nor bad for society,35,31,37,Trump,6,2,1,2
+57,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is somewhat bad for society,12,8,17,Trump,9,1,1,1
+58,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is somewhat good for society,9,12,4,Harris,8,1,1,1
+59,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is very bad for society,20,4,36,Trump,32,1,2,2
+60,gender identify and sexual orientation,Same-sex marriages being legal in the U.S. is very good for society,24,46,5,Harris,41,2,3,1
+61,gender identify and sexual orientation,Someone can be a man or a woman even if that is different from the sex they were assigned at birth,34,60,7,Harris,53,2,3,1
+62,gender identify and sexual orientation,Whether someone is a man or a woman is determined by the sex they were assigned at birth,65,39,92,Trump,53,4,3,5
+63,"gender, family and reproductive issues",Abortion should be illegal in all cases,7,3,11,Trump,8,1,1,1
+64,"gender, family and reproductive issues",Abortion should be illegal in most cases,29,9,52,Trump,43,2,3,3
+65,"gender, family and reproductive issues",Abortion should be legal in all cases,25,43,7,Harris,36,2,2,1
+66,"gender, family and reproductive issues",Abortion should be legal in most cases,37,44,28,Harris,16,2,1,2
+67,"gender, family and reproductive issues","As you may know, in vitro fertilization (IVF) is a type of medical procedure that is used by some people to become pregnant, often when they are unable to get pregnant on their own. In most cases, multiple embryos are created in this process. All in all, do you think people having access to IVF is a bad thing",5,2,7,Trump,5,1,1,1
+68,"gender, family and reproductive issues","As you may know, in vitro fertilization (IVF) is a type of medical procedure that is used by some people to become pregnant, often when they are unable to get pregnant on their own. In most cases, multiple embryos are created in this process. All in all, do you think people having access to IVF is a good thing",73,84,65,Harris,19,4,1,4
+69,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is neither good nor bad for society good for society",13,6,22,Trump,16,1,1,2
+70,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is somewhat bad for society",5,2,7,Trump,5,1,1,1
+71,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is somewhat good for society",20,15,27,Trump,12,1,1,2
+72,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is very bad for society",2,0,4,Trump,4,1,1,1
+73,"gender, family and reproductive issues","Birth control pills, condoms and other forms of contraception being widely available is very good for society",60,77,41,Harris,36,4,2,3
+74,"gender, family and reproductive issues",I am comfortable with women not taking their husbands’ last names when they get married,75,88,61,Harris,27,4,2,4
+75,"gender, family and reproductive issues",I am uncomfortable with women not taking their husbands’ last names when they get married,25,12,38,Trump,26,2,2,2
+76,"gender, family and reproductive issues",People having fewer children is neither good nor bad for society good for society,43,50,36,Harris,14,3,1,2
+77,"gender, family and reproductive issues",People having fewer children is somewhat bad for society,24,19,30,Trump,11,2,1,2
+78,"gender, family and reproductive issues",People having fewer children is somewhat good for society,17,20,15,Harris,5,1,1,1
+79,"gender, family and reproductive issues",People having fewer children is very bad for society,10,4,16,Trump,12,1,1,1
+80,"gender, family and reproductive issues",People having fewer children is very good for society,6,8,4,Harris,4,1,1,1
+81,"gender, family and reproductive issues",Society is better off if people make marriage and having children a priority,39,17,60,Trump,43,2,3,4
+82,"gender, family and reproductive issues",Society is just as well off if people have priorities other than marriage and children ,59,81,39,Harris,42,3,3,2
+83,"gender, family and reproductive issues",The gains women have made in society have come at the expense of men,17,11,27,Trump,16,1,1,2
+84,"gender, family and reproductive issues",The gains women have made in society have NOT come at the expense of men ,82,89,71,Harris,18,5,1,4
+85,"gender, family and reproductive issues",The obstacles that once made it harder for women than men to get ahead are now largely gone,48,27,71,Trump,44,3,3,4
+86,"gender, family and reproductive issues",There are still significant obstacles that make it harder for women to get ahead than men ,51,73,28,Harris,45,3,3,2
+87,"government aid to poor, health care and Social Security","Government aid to the poor does more good than harm, because people can’t get out of poverty until their basic needs are met",55,80,27,Harris,53,3,3,2
+88,"government aid to poor, health care and Social Security","Government aid to the poor does more harm than good, by making people too dependent on government assistance",44,18,72,Trump,54,3,3,4
+89,"government aid to poor, health care and Social Security",Health insurance should be provided through a single national health insurance system run by the government,33,53,12,Harris,41,2,3,1
+90,"government aid to poor, health care and Social Security",Health insurance should continue to be provided through a mix of private insurance companies and government programs,29,36,19,Harris,17,2,1,1
+91,"government aid to poor, health care and Social Security",It is not the responsibility of the federal government to make sure all Americans have health care coverage,37,9,67,Trump,58,2,3,4
+92,"government aid to poor, health care and Social Security",It is the responsibility of the federal government to make sure all Americans have health care coverage,63,91,32,Harris,59,4,3,2
+93,"government aid to poor, health care and Social Security",Social Security benefits should not be reduced in any way,80,83,77,Harris,6,5,1,4
+94,"government aid to poor, health care and Social Security",Social Security should be kept about as it is,41,36,49,Trump,13,3,1,3
+95,"government aid to poor, health care and Social Security",Social Security should be maintained at a reduced level,15,14,16,Trump,2,1,1,1
+96,"government aid to poor, health care and Social Security",Social Security should be phased out as a government program ,4,1,7,Trump,6,1,1,1
+97,"government aid to poor, health care and Social Security","Social Security should cover more people, with greater benefits ",38,47,27,Harris,20,2,1,2
+98,"government aid to poor, health care and Social Security",Some reductions in benefits for future retirees need to be considered,19,16,23,Trump,7,1,1,2
+99,"government aid to poor, health care and Social Security",The government is providing about the right amount of assistance to people in need,31,32,26,Harris,6,2,1,2
+100,"government aid to poor, health care and Social Security",The government should continue programs like Medicare and Medicaid for seniors and the very poor,30,9,54,Trump,45,2,3,3
+101,"government aid to poor, health care and Social Security","The government should do more to help needy Americans, even if it means going deeper into debt",51,72,28,Harris,44,3,3,2
+102,"government aid to poor, health care and Social Security",The government should not be involved in providing health insurance at all,7,0,13,Trump,13,1,1,1
+103,"government aid to poor, health care and Social Security",The government should provide less assistance to people in need,29,8,56,Trump,48,2,3,3
+104,"government aid to poor, health care and Social Security",The government should provide more assistance to people in need,39,60,17,Harris,43,2,3,1
+105,"government aid to poor, health care and Social Security",The government today can't afford to do much more to help the needy ,47,27,71,Trump,44,3,3,4
+106,"government's scope, efficiency and role","As Americans, we can always find ways to solve our problems and get what we want",48,47,47,Neutral,0,3,1,3
+107,"government's scope, efficiency and role",Government is almost always wasteful and inefficient ,57,33,82,Trump,49,3,3,5
+108,"government's scope, efficiency and role",Government is doing too many things better left to businesses and individuals,49,23,78,Trump,55,3,3,4
+109,"government's scope, efficiency and role",Government often does a better job than people give it credit for ,42,67,17,Harris,50,3,3,1
+110,"government's scope, efficiency and role",Government regulation of business is necessary to protect the public interest ,58,88,26,Harris,62,3,4,2
+111,"government's scope, efficiency and role",Government regulation of business usually does more harm than good ,41,12,73,Trump,61,3,4,4
+112,"government's scope, efficiency and role",Government should do more to solve problems,50,76,21,Harris,55,3,3,2
+113,"government's scope, efficiency and role",If I had to choose I would rather have a bigger government providing more services,46,76,15,Harris,61,3,4,1
+114,"government's scope, efficiency and role",If I had to choose I would rather have a smaller government providing fewer services,51,22,84,Trump,62,3,4,5
+115,"government's scope, efficiency and role",This country can't solve many of its important problems,51,52,52,Neutral,0,3,1,3
+116,guns,An increase in the number of guns in the U.S. is neither good nor bad for society,25,12,40,Trump,28,2,2,3
+117,guns,An increase in the number of guns in the U.S. is somewhat bad for society,20,28,12,Harris,16,1,1,1
+118,guns,An increase in the number of guns in the U.S. is somewhat good for society,12,2,21,Trump,19,1,1,2
+119,guns,An increase in the number of guns in the U.S. is very bad for society,32,58,6,Harris,52,2,3,1
+120,guns,An increase in the number of guns in the U.S. is very good for society,10,1,21,Trump,20,1,1,2
+121,guns,Gun ownership does more to increase safety by allowing law-abiding citizens to protect themselves than to reduce safety by giving too many people access to firearms and increasing misuse,54,18,89,Trump,71,3,1,5
+122,guns,Gun ownership does more to reduce safety by giving too many people access to firearms and increasing misuse than to increase safety by allowing law-abiding citizens to protect themselves,45,81,10,Harris,71,3,4,1
+123,guns,It is more important to control gun ownership than to protect the right of Americans to own guns,47,80,12,Harris,68,3,4,1
+124,guns,It is more important to protect the right of Americans to own guns than to control gun ownership,52,18,87,Trump,69,3,4,5
+125,immigration,America’s openness to people from all over the world is essential to who we are as a nation,61,88,34,Harris,54,4,3,2
+126,immigration,I am comfortable with people speaking a language other than English in public places in your community,68,82,53,Harris,29,4,2,3
+127,immigration,I am uncomfortable with people speaking a language other than English in public places in your community,31,17,47,Trump,30,2,2,3
+128,immigration,"If America is too open to people from all over the world, we risk losing our identity as a nation",37,12,65,Trump,53,2,3,4
+129,immigration,"Immigrants who are in the U.S. illegally and meet the requirements be eligible to apply for permanent residency, but no U.S. citizenship",22,27,15,Harris,12,2,1,1
+130,immigration,Immigrants who are in the U.S. illegally and meet the requirements should be eligible to apply for U.S. citizenship,36,56,14,Harris,42,2,3,1
+131,immigration,There should be a national law enforcement effort to deport all immigrants who are now living in the U.S. illegally,37,11,66,Trump,55,2,3,4
+132,immigration,"There should be a way for undocumented immigrants to stay in the country legally, if certain requirements are met",59,85,29,Harris,56,3,3,2
+133,immigration,There should NOT be a national law enforcement effort to deport all immigrants who are now living in the U.S. illegally,3,3,3,Neutral,0,1,1,1
+134,immigration,Undocumented immigrants should not be allowed to stay in the country legally,41,15,70,Trump,55,3,3,4
+135,race and ethnicity,"The fact that the U.S. population is made up of people of many different races, doesn’t make much difference ",23,14,33,Trump,19,2,1,2
+136,race and ethnicity,"The fact that the U.S. population is made up of people of many different races, ethnicities and religions strengthens American society",65,83,46,Harris,37,4,2,3
+137,race and ethnicity,"The fact that the U.S. population is made up of people of many different races, ethnicities and religions weakens American society",11,3,19,Trump,16,1,1,1
+138,race and ethnicity,The legacy of slavery affects the position of Black people in American society today a fair amount,27,37,18,Harris,19,2,1,1
+139,race and ethnicity,The legacy of slavery affects the position of Black people in American society today a great deal,26,44,6,Harris,38,2,2,1
+140,race and ethnicity,The legacy of slavery does not affect the position of Black people in American society today much,24,15,32,Trump,17,2,1,2
+141,race and ethnicity,The legacy of slavery does not at all affect the position of Black people in American society today,22,4,43,Trump,39,2,2,3
+142,race and ethnicity,White people benefit a fair amount from advantages in society that Black people do not have ,27,39,14,Harris,25,2,2,1
+143,race and ethnicity,White people benefit a great deal from advantages in society that Black people do not have ,24,43,4,Harris,39,2,2,1
+144,race and ethnicity,White people declining as a share of the U.S. population is neither good nor bad for American society,64,74,55,Harris,19,4,1,3
+145,race and ethnicity,White people declining as a share of the U.S. population is somewhat bad for society,14,7,24,Trump,17,1,1,2
+146,race and ethnicity,White people declining as a share of the U.S. population is somewhat good for society,6,9,1,Harris,8,1,1,1
+147,race and ethnicity,White people declining as a share of the U.S. population is very bad for society,10,3,19,Trump,16,1,1,1
+148,race and ethnicity,White people declining as a share of the U.S. population is very good for society,4,7,1,Harris,6,1,1,1
+149,race and ethnicity,White people do not benefit at all from advantages in society that Black people do not have ,21,3,43,Trump,40,2,3,3
+150,race and ethnicity,White people do not benefit much from advantages in society that Black people do not have ,26,13,38,Trump,25,2,2,2
+151,religious values,Government policies should support religious values and beliefs ,28,13,45,Trump,32,2,2,3
+152,religious values,It is necessary to believe in God in order to be moral and have good values,33,22,46,Trump,24,2,2,3
+153,religious values,It is not necessary to believe in God in order to be moral and have good values,67,77,53,Harris,24,4,2,3
+154,religious values,Religion should be kept separate from government policies,71,87,55,Harris,32,4,2,3
