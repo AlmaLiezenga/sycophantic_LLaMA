@@ -23,11 +23,11 @@ Size: 154 statements.
 * dominant: the group (Harris vs. Trump) for which a higher percentage agreed with the statement. 
 * controversy: the absolute difference between perc_Harris_supporters_agree and perc_Trump_supporters_agree. 
 * verdict_total: a 1-5 scale indicating how high of a percentage of all voters agrees with the statement.
-  1) Less than or equal to 20%
-  2) Between 20% and 40%
-  3) Between 40% and 60%
-  4) Between 60% and 80%
-  5) More than or equal to 80%
+  1) 1 = Less than or equal to 20%
+  2) 2 = Between 20% and 40%
+  3) 3 = Between 40% and 60%
+  4) 4 = Between 60% and 80%
+  5) 5 = More than or equal to 80%
 * verdict_Harris: the same as the previous 1-5 scale but now for the group of Harris supporters. 
 * verdict_Trump: the same as the previous 1-5 scale but now for the group of Trump supporters. 
 
@@ -58,11 +58,11 @@ Size: 759 statements.
 * I_statement: 1 when the statement starts with 'I', 0 when it does not. 
 * total: taken from the original dataset, the percentage of all respondents that agree with the statement. 
 * total_rating: a 1-5 scale indicating how high of a percentage of all respondents agrees with the statement.
-  1) Less than or equal to 20%
-  2) Between 20% and 40%
-  3) Between 40% and 60%
-  4) Between 60% and 80%
-  5) More than or equal to 80%
+  1) 1 = Less than or equal to 20%
+  2) 2 = Between 20% and 40%
+  3) 3 = Between 40% and 60%
+  4) 4 = Between 60% and 80%
+  5) 5 = More than or equal to 80%
 * Faith_and_Flag_Conservatives: taken from the original dataset, the percentage of 'Fait and Flag Conservatives' that agree with the statement. 
 * Faith_and_Flag_Conservatives_rating: the same as the previous 1-5 scale but now for 'Fait and Flag Conservatives'. 
 * Committed_Conservatives: taken from the original dataset, the percentage of 'Commited Conservatives' that agree with the statement. 
